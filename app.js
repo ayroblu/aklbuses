@@ -29,6 +29,9 @@ var app = express();
 var http = require('http').Server(app);
 var io = require('./lib/sockets').listen(http)
 
+var downloader = require('./lib/downloader').getVehicleLocations
+setInterval(downloader, 30000)
+
 //app.use(function(req, res, next) {
 //    // Set permissive CORS header - this allows this server to be used only as
 //    // an API server in conjunction with something like webpack-dev-server.
