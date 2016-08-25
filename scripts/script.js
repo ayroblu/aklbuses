@@ -30,7 +30,6 @@ function initMap() {
 
   socketData.startRefreshing(null) //put in map
   socketData.setChatListener(function(d){
-    store.data = d
     showData(d)
   })
 }
@@ -51,6 +50,7 @@ function showData(data){
     , startTime: e.vehicle.trip.start_time
     }
   })
+  store.data = positions
   updateMarkers(positions, map)
 
   //var markers = positions.reduce((o p)=>{
