@@ -52,18 +52,6 @@ function showData(data){
   })
   store.data = positions
   updateMarkers(positions, map)
-
-  //var markers = positions.reduce((o p)=>{
-  //  o[p.vehicle_id] = drawMarker(p, map)
-  //  return o
-  //}, {})
-  //var posData = positions.reduce((o p)=>{
-  //  o[p.vehicle_id] = p
-  //  return o
-  //}, {})
-  //store.markers = markers
-  //store.posData = posData
-  //console.log('num markers: ', markers.length)
 }
 function updateMarkers(data, map){
   //okay, here's what we got
@@ -77,7 +65,7 @@ function updateMarkers(data, map){
     var groupedData = data.reduce((o, d)=>{
       if (keys.indexOf(d.vehicle_id) >= 0){
         o.moveData.push(d)
-        keys.splice(keys.indexOf(d.vehicle_id))
+        keys.splice(keys.indexOf(d.vehicle_id), 1)
       } else {
         o.addedData.push(d)
       }
