@@ -1,0 +1,4847 @@
+{
+    "status": "OK",
+    "response": {
+        "header": {
+            "gtfs_realtime_version": "1.0",
+            "incrementality": 0,
+            "timestamp": 1471866242.581
+        },
+        "entity": [
+            {
+                "id": "dc9090da-0a6d-56b2-47e8-4b66c7bac25c",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14769040838-20160803113210_v43.25",
+                        "route_id": "76901-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3701"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 39,
+                        "stop_id": "7327",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": 382,
+                            "time": 1471866226.706
+                        }
+                    },
+                    "timestamp": 1471866226.706
+                }
+            },
+            {
+                "id": "a21bd955-4791-8d3f-91d4-37d0cf1f9f03",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "1982035853-20160803113210_v43.25",
+                        "route_id": "98202-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3713"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 39,
+                        "stop_id": "4665",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -4,
+                            "time": 1471866233.648
+                        }
+                    },
+                    "timestamp": 1471866233.648
+                }
+            },
+            {
+                "id": "87cfa9d8-6bcd-0271-5637-b2b0406b66c7",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "12858046423-20160803113210_v43.25",
+                        "route_id": "85802-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3719"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 6,
+                        "stop_id": "7036",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 67,
+                            "time": 1471866104
+                        }
+                    },
+                    "timestamp": 1471866104
+                }
+            },
+            {
+                "id": "f68b22b3-ebe2-db68-7083-1daeffb488bb",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "12875045926-20160803113210_v43.25",
+                        "route_id": "87502-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3724"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 46,
+                        "stop_id": "3122",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -59,
+                            "time": 1471866061
+                        }
+                    },
+                    "timestamp": 1471866061
+                }
+            },
+            {
+                "id": "8d2cebe0-587c-3a4f-9cb3-e2a315643ff4",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "1982016691-20160803113210_v43.25",
+                        "route_id": "98201-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3727"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 4,
+                        "stop_id": "4813",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 69,
+                            "time": 1471866216
+                        }
+                    },
+                    "timestamp": 1471866216
+                }
+            },
+            {
+                "id": "b772c3d6-1316-eb57-6e98-ed8753169dbd",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "13223043418-20160803113210_v43.25",
+                        "route_id": "22302-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3787"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 34,
+                        "stop_id": "8148",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": 123,
+                            "time": 1471866241.897
+                        }
+                    },
+                    "timestamp": 1471866241.897
+                }
+            },
+            {
+                "id": "c04ac146-ebc8-9238-7b6d-a0b178cba580",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "4973028588-20160803113210_v43.25",
+                        "route_id": "97304-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5213"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 36,
+                        "stop_id": "4021",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -432,
+                            "time": 1471866228
+                        }
+                    },
+                    "timestamp": 1471866228
+                }
+            },
+            {
+                "id": "9c71b1aa-5ebf-304f-d471-b838a56255f8",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "4973028512-20160803113210_v43.25",
+                        "route_id": "97301-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5216"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 1,
+                        "stop_id": "4134",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": 3674,
+                            "time": 1471866074.5
+                        }
+                    },
+                    "timestamp": 1471866074.5
+                }
+            },
+            {
+                "id": "aac53df9-195f-fb9c-6445-aa62591adcb3",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "3100034278-20160803113210_v43.25",
+                        "route_id": "10002-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5899"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 6,
+                        "stop_id": "3221",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -122,
+                            "time": 1471866238.699
+                        }
+                    },
+                    "timestamp": 1471866238.699
+                }
+            },
+            {
+                "id": "2f6e9007-170d-1406-7091-5c24c507bcd0",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "3880005424-20160803113210_v43.25",
+                        "route_id": "88002-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5971"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 32,
+                        "stop_id": "3139",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -88,
+                            "time": 1471866212.109
+                        }
+                    },
+                    "timestamp": 1471866212.109
+                }
+            },
+            {
+                "id": "e3e430ef-60a7-8866-87ef-be26662be5dd",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "8300033761-20160803113210_v43.25",
+                        "route_id": "30005-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "6218"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 4,
+                        "stop_id": "8419",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -77,
+                            "time": 1471866103.858
+                        }
+                    },
+                    "timestamp": 1471866103.858
+                }
+            },
+            {
+                "id": "b05d685e-8321-8b9f-5d6e-648d38596077",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "3880005496-20160803113210_v43.25",
+                        "route_id": "88001-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "578B"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 60,
+                        "stop_id": "3587",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -368,
+                            "time": 1471866131.412
+                        }
+                    },
+                    "timestamp": 1471866131.412
+                }
+            },
+            {
+                "id": "cfe46fb5-86bc-c4b6-fd77-abcc612131f9",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14233045308-20160803113210_v43.25",
+                        "route_id": "23301-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F82"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 42,
+                        "stop_id": "1088",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -237,
+                            "time": 1471866210.606
+                        }
+                    },
+                    "timestamp": 1471866210.606
+                }
+            },
+            {
+                "id": "ef72b775-5fe1-b495-12cf-864111a9cd7e",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "5552011844-20160803113210_v43.25",
+                        "route_id": "55206-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5ECD"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 15,
+                        "stop_id": "6146",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 86,
+                            "time": 1471866240
+                        }
+                    },
+                    "timestamp": 1471866240
+                }
+            },
+            {
+                "id": "c4582c5d-e902-71ad-ead5-f0802828cdeb",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "13221043623-20160803113210_v43.25",
+                        "route_id": "22102-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F63"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 3,
+                        "stop_id": "7093",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -87,
+                            "time": 1471866205
+                        }
+                    },
+                    "timestamp": 1471866205
+                }
+            },
+            {
+                "id": "eccd0fc7-ccd6-890a-00d7-5462d5871017",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14277038070-20160803113210_v43.25",
+                        "route_id": "27701-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3A99"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 40,
+                        "stop_id": "7024",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": 568,
+                            "time": 1471866148
+                        }
+                    },
+                    "timestamp": 1471866148
+                }
+            },
+            {
+                "id": "0f39e58e-c4be-0b90-7cc2-009a3cffe7a3",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "1045016026-20160803113210_v43.25",
+                        "route_id": "19502-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5BA6"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 38,
+                        "stop_id": "8584",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -12,
+                            "time": 1471866089.428
+                        }
+                    },
+                    "timestamp": 1471866089.428
+                }
+            },
+            {
+                "id": "2ea06e17-fcbd-ecb6-db4d-0d32b006aa6e",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14258044254-20160803113210_v43.25",
+                        "route_id": "25802-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F72"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 36,
+                        "stop_id": "8908",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -12,
+                            "time": 1471866231.234
+                        }
+                    },
+                    "timestamp": 1471866231.234
+                }
+            },
+            {
+                "id": "93d8cab5-471f-ae21-a37d-068c82ce33e1",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14721047135-20160803113210_v43.25",
+                        "route_id": "72101-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36C4"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 54,
+                        "stop_id": "8709",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 149,
+                            "time": 1471866238.015
+                        }
+                    },
+                    "timestamp": 1471866238.015
+                }
+            },
+            {
+                "id": "837de265-361e-f4fc-1e98-634d58a482c2",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14249045498-20160803113210_v43.25",
+                        "route_id": "24902-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F50"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 13,
+                        "stop_id": "7288",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -46,
+                            "time": 1471866237.733
+                        }
+                    },
+                    "timestamp": 1471866237.733
+                }
+            },
+            {
+                "id": "dfdbda26-934c-8ec7-8868-e7d6746e58f4",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14756040595-20160803113210_v43.25",
+                        "route_id": "75601-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36BD"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 14,
+                        "stop_id": "7818",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 338,
+                            "time": 1471866218.723
+                        }
+                    },
+                    "timestamp": 1471866218.723
+                }
+            },
+            {
+                "id": "efd8b8d9-ccbc-0717-73ac-a98b5915ad1b",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "13049037061-20160803113210_v43.25",
+                        "route_id": "04902-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37C1"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 13,
+                        "stop_id": "8114",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -167,
+                            "time": 1471866217.982
+                        }
+                    },
+                    "timestamp": 1471866217.982
+                }
+            },
+            {
+                "id": "0e0dd6c0-065d-bdaf-de6b-a4224b0fd502",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "1981016619-20160803113210_v43.25",
+                        "route_id": "98104-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "373D"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 43,
+                        "stop_id": "4831",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -144,
+                            "time": 1471866036
+                        }
+                    },
+                    "timestamp": 1471866036
+                }
+            },
+            {
+                "id": "1fbaf356-eb5e-1204-fb9d-97c085e765ff",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14392045236-20160803113210_v43.25",
+                        "route_id": "39202-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "370F"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 41,
+                        "stop_id": "1025",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -234,
+                            "time": 1471866210.216
+                        }
+                    },
+                    "timestamp": 1471866210.216
+                }
+            },
+            {
+                "id": "16a27dfc-0d93-b39a-4723-53f6ba5b5f0b",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "3100033860-20160803113210_v43.25",
+                        "route_id": "10001-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "59C3"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 5,
+                        "stop_id": "4065",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -373,
+                            "time": 1471866047.415
+                        }
+                    },
+                    "timestamp": 1471866047.415
+                }
+            },
+            {
+                "id": "2eb51c67-8aeb-c935-c811-03ba2b991ee0",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14020043008-20160803113210_v43.25",
+                        "route_id": "02002-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36ED"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 15,
+                        "stop_id": "1024",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 10,
+                            "time": 1471866233.787
+                        }
+                    },
+                    "timestamp": 1471866233.787
+                }
+            },
+            {
+                "id": "af5289ea-6d7a-37af-55c4-98f497c74089",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14267044505-20160803113210_v43.25",
+                        "route_id": "26702-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F56"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 2,
+                        "stop_id": "7128",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 48,
+                            "time": 1471866143.314
+                        }
+                    },
+                    "timestamp": 1471866143.314
+                }
+            },
+            {
+                "id": "47f0e499-ae95-dffa-f1f6-d7e609c627c9",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14305044896-20160803113210_v43.25",
+                        "route_id": "30502-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37FA"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 37,
+                        "stop_id": "6711",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 57,
+                            "time": 1471866232.863
+                        }
+                    },
+                    "timestamp": 1471866232.863
+                }
+            },
+            {
+                "id": "53e235a2-45ef-08c2-eba4-fbeb5e756d72",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "12879046038-20160803113210_v43.25",
+                        "route_id": "87902-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "372B"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 14,
+                        "stop_id": "3353",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -73,
+                            "time": 1471866207.386
+                        }
+                    },
+                    "timestamp": 1471866207.386
+                }
+            },
+            {
+                "id": "ea9938c9-d220-986f-39f9-30d89db5cfc2",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14655040248-20160803113210_v43.25",
+                        "route_id": "65502-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36F3"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 11,
+                        "stop_id": "7200",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 173,
+                            "time": 1471866223.486
+                        }
+                    },
+                    "timestamp": 1471866223.486
+                }
+            },
+            {
+                "id": "a8bdf155-6797-83e9-3d57-71e68dba24f1",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "15348038407-20160803113210_v43.25",
+                        "route_id": "34802-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37F9"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 23,
+                        "stop_id": "8971",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 584,
+                            "time": 1471866211.234
+                        }
+                    },
+                    "timestamp": 1471866211.234
+                }
+            },
+            {
+                "id": "02d0a6b2-e48d-2916-14ef-5b086a085671",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "8300033532-20160803113210_v43.25",
+                        "route_id": "30008-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "621F"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 7,
+                        "stop_id": "8410",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -90,
+                            "time": 1471866130
+                        }
+                    },
+                    "timestamp": 1471866130
+                }
+            },
+            {
+                "id": "200a42bf-59db-77e8-ff5e-5fe9c7f482d2",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "1035047520-20160803113210_v43.25",
+                        "route_id": "17202-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2E7D"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 17,
+                        "stop_id": "5021",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": 19,
+                            "time": 1471866236.437
+                        }
+                    },
+                    "timestamp": 1471866236.437
+                }
+            },
+            {
+                "id": "a3c99aa2-2760-a4a5-7af9-d0f6b7a75a2a",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14797028761-20160803113210_v43.25",
+                        "route_id": "79702-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36B5"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 17,
+                        "stop_id": "1325",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -328,
+                            "time": 1471866231.359
+                        }
+                    },
+                    "timestamp": 1471866231.359
+                }
+            },
+            {
+                "id": "01b23a4f-72a6-03c8-77fe-74c2fecf324d",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "15512039728-20160803113210_v43.25",
+                        "route_id": "51202-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37C8"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 46,
+                        "stop_id": "7688",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -68,
+                            "time": 1471866191.802
+                        }
+                    },
+                    "timestamp": 1471866191.802
+                }
+            },
+            {
+                "id": "aeda8597-7d87-1045-bdb5-b1252ef1c60b",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "18023027776-20160803113210_v43.25",
+                        "route_id": "00301-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "7D9B"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 12,
+                        "stop_id": "1423",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 270,
+                            "time": 1471866213.486
+                        }
+                    },
+                    "timestamp": 1471866213.486
+                }
+            },
+            {
+                "id": "2782ec71-3f04-449f-2686-a062840ce593",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "5500011596-20160803113210_v43.25",
+                        "route_id": "50002-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5E53"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 59,
+                        "stop_id": "2018",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -770,
+                            "time": 1471866130
+                        }
+                    },
+                    "timestamp": 1471866130
+                }
+            },
+            {
+                "id": "785b7a85-7e83-8633-12da-b45a78248bf1",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "5550011385-20160803113210_v43.25",
+                        "route_id": "55006-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5EC5"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 2,
+                        "stop_id": "7140",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -24,
+                            "time": 1471866214.299
+                        }
+                    },
+                    "timestamp": 1471866214.299
+                }
+            },
+            {
+                "id": "c994fc06-7cc9-d7e6-b393-803b16aabc7a",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "15472039172-20160803113210_v43.25",
+                        "route_id": "47206-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37CF"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 5,
+                        "stop_id": "7159",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": 34,
+                            "time": 1471866189.073
+                        }
+                    },
+                    "timestamp": 1471866189.073
+                }
+            },
+            {
+                "id": "bd940aa7-35ec-211a-9a5b-c5cbbbcd619c",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "12839046322-20160803113210_v43.25",
+                        "route_id": "83902-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "371F"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 44,
+                        "stop_id": "3105",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -1,
+                            "time": 1471866204.613
+                        }
+                    },
+                    "timestamp": 1471866204.613
+                }
+            },
+            {
+                "id": "4a529229-ea33-6318-ffdc-0a9f5aea1ba2",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "5550011389-20160803113210_v43.25",
+                        "route_id": "55006-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5EB0"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 35,
+                        "stop_id": "1093",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": 122,
+                            "time": 1471866202.38
+                        }
+                    },
+                    "timestamp": 1471866202.38
+                }
+            },
+            {
+                "id": "7da149c2-97df-469f-dd9e-5a45a27e9fff",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "15409039801-20160803113210_v43.25",
+                        "route_id": "40902-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2CA8"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 10,
+                        "stop_id": "1485",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 1858,
+                            "time": 1471866101.883
+                        }
+                    },
+                    "timestamp": 1471866101.883
+                }
+            },
+            {
+                "id": "87fe37f2-2f3e-75a7-0003-3d1f2126bf61",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "4955028442-20160803113210_v43.25",
+                        "route_id": "95504-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "522A"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 14,
+                        "stop_id": "4022",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -355,
+                            "time": 1471866240.509
+                        }
+                    },
+                    "timestamp": 1471866240.509
+                }
+            },
+            {
+                "id": "28b54086-b5ad-3fda-810b-bfb151611198",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "1981016585-20160803113210_v43.25",
+                        "route_id": "98101-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2CA1"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 40,
+                        "stop_id": "4742",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 60,
+                            "time": 1471866217.184
+                        }
+                    },
+                    "timestamp": 1471866217.184
+                }
+            },
+            {
+                "id": "3fd0af84-a325-00aa-3ab0-48956e4ca75d",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14797028796-20160803113210_v43.25",
+                        "route_id": "79702-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36B9"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 10,
+                        "stop_id": "1084",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -255,
+                            "time": 1471866213.403
+                        }
+                    },
+                    "timestamp": 1471866213.403
+                }
+            },
+            {
+                "id": "d6faff9c-6485-2a87-9858-d71157890233",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14731045655-20160803113210_v43.25",
+                        "route_id": "73102-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36C6"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 57,
+                        "stop_id": "8497",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -195,
+                            "time": 1471866165.625
+                        }
+                    },
+                    "timestamp": 1471866165.625
+                }
+            },
+            {
+                "id": "b8d38df1-7cb6-7edb-da9f-d5b5f71a46c6",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "13154037761-20160803113210_v43.25",
+                        "route_id": "15402-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "375A"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 65,
+                        "stop_id": "5497",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -912,
+                            "time": 1471866232.405
+                        }
+                    },
+                    "timestamp": 1471866232.405
+                }
+            },
+            {
+                "id": "4204f66b-3a45-4c7f-9a4b-fc71c83dd396",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "5500011581-20160803113210_v43.25",
+                        "route_id": "50002-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5EC8"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 17,
+                        "stop_id": "7610",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 144,
+                            "time": 1471866231
+                        }
+                    },
+                    "timestamp": 1471866231
+                }
+            },
+            {
+                "id": "13e7cbc9-f456-1146-990c-b2afee297f9c",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14277037947-20160803113210_v43.25",
+                        "route_id": "27702-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3A9B"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 32,
+                        "stop_id": "8938",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -295,
+                            "time": 1471866200.779
+                        }
+                    },
+                    "timestamp": 1471866200.779
+                }
+            },
+            {
+                "id": "a5eb59c7-a6c1-f5f3-e70f-87d069548bef",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14721047134-20160803113210_v43.25",
+                        "route_id": "72101-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36C2"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 71,
+                        "stop_id": "7006",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -147,
+                            "time": 1471866033.596
+                        }
+                    },
+                    "timestamp": 1471866033.596
+                }
+            },
+            {
+                "id": "7c146fb7-5755-41fc-f88c-e861d87345af",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "15487039373-20160803113210_v43.25",
+                        "route_id": "48702-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37FB"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 31,
+                        "stop_id": "7638",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": 48,
+                            "time": 1471866230
+                        }
+                    },
+                    "timestamp": 1471866230
+                }
+            },
+            {
+                "id": "3eaa0d12-1b51-33be-6c9f-45377127f552",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "13154037713-20160803113210_v43.25",
+                        "route_id": "15401-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37E8"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 73,
+                        "stop_id": "7087",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -204,
+                            "time": 1471866096
+                        }
+                    },
+                    "timestamp": 1471866096
+                }
+            },
+            {
+                "id": "1b42c0ef-9952-a3e2-4db0-2d65521c540d",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14769040838-20160803113210_v43.25",
+                        "route_id": "76901-20160803113210_v43.25",
+                        "start_time": "23:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3701"
+                    },
+                    "position": {
+                        "latitude": -36.8476,
+                        "longitude": 174.829467,
+                        "bearing": "327"
+                    },
+                    "timestamp": 1471866224.543,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "bd2d366a-0363-e4b6-c34e-81bbc17ee29f",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1982035853-20160803113210_v43.25",
+                        "route_id": "98202-20160803113210_v43.25",
+                        "start_time": "23:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3713"
+                    },
+                    "position": {
+                        "latitude": -36.61102616,
+                        "longitude": 174.71034027
+                    },
+                    "timestamp": 1471866240,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "f2c9012e-30c1-5fdd-cabc-af5f67032d6f",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12858046423-20160803113210_v43.25",
+                        "route_id": "85802-20160803113210_v43.25",
+                        "start_time": "23:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3719"
+                    },
+                    "position": {
+                        "latitude": -36.828833,
+                        "longitude": 174.74675,
+                        "bearing": "25"
+                    },
+                    "timestamp": 1471866236.53,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "112f8ca7-4aef-4d67-077a-6798548c2b2f",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12875045926-20160803113210_v43.25",
+                        "route_id": "87502-20160803113210_v43.25",
+                        "start_time": "22:50:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3724"
+                    },
+                    "position": {
+                        "latitude": -36.72424833,
+                        "longitude": 174.74132167
+                    },
+                    "timestamp": 1471866217,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "139473c5-ece1-76b3-835b-91bb721b36cc",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1982016691-20160803113210_v43.25",
+                        "route_id": "98201-20160803113210_v43.25",
+                        "start_time": "23:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3727"
+                    },
+                    "position": {
+                        "latitude": -36.590167,
+                        "longitude": 174.693617,
+                        "bearing": "156"
+                    },
+                    "timestamp": 1471866221.352,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "c5c35668-0fa3-f27a-c50e-930222931fb5",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13113037281-20160803113210_v43.25",
+                        "route_id": "11304-20160803113210_v43.25",
+                        "start_time": "23:10:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3753"
+                    },
+                    "position": {
+                        "latitude": -36.869365,
+                        "longitude": 174.61460333
+                    },
+                    "timestamp": 1471866144,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "9141c2cb-ae49-4c87-e3d5-aa361a7a6d14",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13223043418-20160803113210_v43.25",
+                        "route_id": "22302-20160803113210_v43.25",
+                        "start_time": "23:10:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3787"
+                    },
+                    "position": {
+                        "latitude": -36.901933,
+                        "longitude": 174.692633,
+                        "bearing": "235"
+                    },
+                    "timestamp": 1471866241.897,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "5034ce10-1622-9f45-ccc9-46a7fd8bf88c",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15497039552-20160803113210_v43.25",
+                        "route_id": "49702-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3811"
+                    },
+                    "position": {
+                        "latitude": -36.98667333,
+                        "longitude": 174.86877667
+                    },
+                    "timestamp": 1471866213,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "501cbe57-23dc-2ed4-5ecc-cf7215b9ca1d",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "4973028588-20160803113210_v43.25",
+                        "route_id": "97304-20160803113210_v43.25",
+                        "start_time": "23:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5213"
+                    },
+                    "position": {
+                        "latitude": -36.80605167,
+                        "longitude": 174.70563
+                    },
+                    "timestamp": 1471866238,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "d84f13fc-5996-5796-37be-d792347d3bb8",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "4974028703-20160803113210_v43.25",
+                        "route_id": "97404-20160803113210_v43.25",
+                        "start_time": "23:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5216"
+                    },
+                    "position": {
+                        "latitude": -36.842933,
+                        "longitude": 174.7654
+                    },
+                    "timestamp": 1471866097,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "bfdb36a8-4d9e-b0e4-376d-6ca2ed04ddbc",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3100034404-20160803113210_v43.25",
+                        "route_id": "10004-20160803113210_v43.25",
+                        "start_time": "23:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5828"
+                    },
+                    "position": {
+                        "latitude": -36.668433,
+                        "longitude": 174.679283,
+                        "bearing": "307"
+                    },
+                    "timestamp": 1471866219.182,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "b5b0d677-5d88-6009-bc7d-7b9ea39bc70e",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3100034278-20160803113210_v43.25",
+                        "route_id": "10002-20160803113210_v43.25",
+                        "start_time": "23:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5899"
+                    },
+                    "position": {
+                        "latitude": -36.7614,
+                        "longitude": 174.737783,
+                        "bearing": "325"
+                    },
+                    "timestamp": 1471866238.699,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "bf87fa7c-7b04-c489-5c4e-9886a05b3ef4",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3880005424-20160803113210_v43.25",
+                        "route_id": "88002-20160803113210_v43.25",
+                        "start_time": "23:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5971"
+                    },
+                    "position": {
+                        "latitude": -36.7394,
+                        "longitude": 174.753767,
+                        "bearing": "220"
+                    },
+                    "timestamp": 1471866227.788,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "abc0f4ad-5c26-1f65-de49-d97050d1e060",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "8300033746-20160803113210_v43.25",
+                        "route_id": "30001-20160803113210_v43.25",
+                        "start_time": "23:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "6212"
+                    },
+                    "position": {
+                        "latitude": -36.94847096,
+                        "longitude": 174.79333848
+                    },
+                    "timestamp": 1471866238,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "f61bfb45-838c-bfaa-ed2e-bca8ca1d1497",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "8300033523-20160803113210_v43.25",
+                        "route_id": "30004-20160803113210_v43.25",
+                        "start_time": "23:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "6217"
+                    },
+                    "position": {
+                        "latitude": -36.921135,
+                        "longitude": 174.7662436
+                    },
+                    "timestamp": 1471866107,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "15e624cd-4407-3a8b-f881-c3498d6a6a3d",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "8300033761-20160803113210_v43.25",
+                        "route_id": "30005-20160803113210_v43.25",
+                        "start_time": "23:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "6218"
+                    },
+                    "position": {
+                        "latitude": -36.87967898,
+                        "longitude": 174.74979104
+                    },
+                    "timestamp": 1471866204,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "3fb07e3b-3ed4-f93e-fa2e-ef3e5294116a",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5550011382-20160803113210_v43.25",
+                        "route_id": "55006-20160803113210_v43.25",
+                        "start_time": "22:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5E74"
+                    },
+                    "position": {
+                        "latitude": -36.927845,
+                        "longitude": 174.90322
+                    },
+                    "timestamp": 1471865984,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "51d14939-e780-20d9-888f-f6844667b401",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3880005496-20160803113210_v43.25",
+                        "route_id": "88001-20160803113210_v43.25",
+                        "start_time": "23:05:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "578B"
+                    },
+                    "position": {
+                        "latitude": -36.733875,
+                        "longitude": 174.70770333
+                    },
+                    "timestamp": 1471866199,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "fbea7212-3163-4b51-98ef-53a53b78e7cd",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14233045308-20160803113210_v43.25",
+                        "route_id": "23301-20160803113210_v43.25",
+                        "start_time": "23:09:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F82"
+                    },
+                    "position": {
+                        "latitude": -36.849767,
+                        "longitude": 174.760333,
+                        "bearing": "286"
+                    },
+                    "timestamp": 1471866210.606,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "96c2e285-4b4d-e885-46ba-697bb2cb3e45",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5552011844-20160803113210_v43.25",
+                        "route_id": "55206-20160803113210_v43.25",
+                        "start_time": "23:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5ECD"
+                    },
+                    "position": {
+                        "latitude": -36.896617,
+                        "longitude": 174.89055,
+                        "bearing": "99"
+                    },
+                    "timestamp": 1471866240,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "47e65977-3e39-57db-7f1d-6ce38bb1b548",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13221043623-20160803113210_v43.25",
+                        "route_id": "22102-20160803113210_v43.25",
+                        "start_time": "23:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F63"
+                    },
+                    "position": {
+                        "latitude": -36.84918923,
+                        "longitude": 174.76592294
+                    },
+                    "timestamp": 1471866238,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "12304d43-dc2b-7950-e381-98683328e05f",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14277037948-20160803113210_v43.25",
+                        "route_id": "27702-20160803113210_v43.25",
+                        "start_time": "23:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3A99"
+                    },
+                    "position": {
+                        "latitude": -36.844483,
+                        "longitude": 174.768267
+                    },
+                    "timestamp": 1471866183,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "6985a1e6-30d2-266e-3752-d6ce7c40be4d",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1045016026-20160803113210_v43.25",
+                        "route_id": "19502-20160803113210_v43.25",
+                        "start_time": "23:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5BA6"
+                    },
+                    "position": {
+                        "latitude": -36.92498097,
+                        "longitude": 174.70181177
+                    },
+                    "timestamp": 1471866226,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "b8f81180-433b-65b7-126d-58d46f008e8f",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14258044254-20160803113210_v43.25",
+                        "route_id": "25802-20160803113210_v43.25",
+                        "start_time": "23:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F72"
+                    },
+                    "position": {
+                        "latitude": -36.921517,
+                        "longitude": 174.716383,
+                        "bearing": "256"
+                    },
+                    "timestamp": 1471866231.234,
+                    "occupancy_status": 1
+                }
+            },
+            {
+                "id": "ec5a677f-4e56-e888-05b0-97ef62537e5c",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14721047135-20160803113210_v43.25",
+                        "route_id": "72101-20160803113210_v43.25",
+                        "start_time": "23:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36C4"
+                    },
+                    "position": {
+                        "latitude": -36.8879,
+                        "longitude": 174.775317,
+                        "bearing": "5"
+                    },
+                    "timestamp": 1471866238.015,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "6a234149-b591-3bed-13ab-cdd2cd9b3a6d",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14710040355-20160803113210_v43.25",
+                        "route_id": "71002-20160803113210_v43.25",
+                        "start_time": "23:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36F2"
+                    },
+                    "position": {
+                        "latitude": -36.86608,
+                        "longitude": 174.85153661
+                    },
+                    "timestamp": 1471866204,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "f9e73341-be7f-e9bc-3b33-ec8466d7a098",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14249045498-20160803113210_v43.25",
+                        "route_id": "24902-20160803113210_v43.25",
+                        "start_time": "23:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F50"
+                    },
+                    "position": {
+                        "latitude": -36.873,
+                        "longitude": 174.74605,
+                        "bearing": "263"
+                    },
+                    "timestamp": 1471866241.647,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "38a47328-fb33-dd4d-f6ed-39c0c602eb08",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14756040595-20160803113210_v43.25",
+                        "route_id": "75601-20160803113210_v43.25",
+                        "start_time": "23:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36BD"
+                    },
+                    "position": {
+                        "latitude": -36.8779,
+                        "longitude": 174.8568,
+                        "bearing": "112"
+                    },
+                    "timestamp": 1471866236.765,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "73893af9-75ba-2bc8-2f9a-dd69d425ed3a",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13049037061-20160803113210_v43.25",
+                        "route_id": "04902-20160803113210_v43.25",
+                        "start_time": "23:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37C1"
+                    },
+                    "position": {
+                        "latitude": -36.86597869,
+                        "longitude": 174.73765923
+                    },
+                    "timestamp": 1471866218,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "92e71f8e-cd54-8b80-f73d-5f6a866ec4e9",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1981016619-20160803113210_v43.25",
+                        "route_id": "98104-20160803113210_v43.25",
+                        "start_time": "23:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "373D"
+                    },
+                    "position": {
+                        "latitude": -36.58722,
+                        "longitude": 174.691215
+                    },
+                    "timestamp": 1471866241,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "5396b115-9b48-3846-c424-c7358743a4f3",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14392045236-20160803113210_v43.25",
+                        "route_id": "39202-20160803113210_v43.25",
+                        "start_time": "23:10:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "370F"
+                    },
+                    "position": {
+                        "latitude": -36.9223,
+                        "longitude": 174.792917,
+                        "bearing": "261"
+                    },
+                    "timestamp": 1471866210.216,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "04f6557a-12a3-bbfd-eb10-66b8d1930d70",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3100033860-20160803113210_v43.25",
+                        "route_id": "10001-20160803113210_v43.25",
+                        "start_time": "23:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "59C3"
+                    },
+                    "position": {
+                        "latitude": -36.823533,
+                        "longitude": 174.750333,
+                        "bearing": "197"
+                    },
+                    "timestamp": 1471866209.828,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "0d605459-fd62-63f5-c7a5-11f4c9250c94",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14716040395-20160803113210_v43.25",
+                        "route_id": "71601-20160803113210_v43.25",
+                        "start_time": "23:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36FC"
+                    },
+                    "position": {
+                        "latitude": -36.845335,
+                        "longitude": 174.76786833
+                    },
+                    "timestamp": 1471866231,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "08832a2c-7e9a-0f0d-7868-9b01035ad790",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14020043008-20160803113210_v43.25",
+                        "route_id": "02002-20160803113210_v43.25",
+                        "start_time": "23:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36ED"
+                    },
+                    "position": {
+                        "latitude": -36.85637647,
+                        "longitude": 174.73958104
+                    },
+                    "timestamp": 1471866237,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "1f0139c9-656f-320a-494f-8fbcb1c4f446",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14267044505-20160803113210_v43.25",
+                        "route_id": "26702-20160803113210_v43.25",
+                        "start_time": "23:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F56"
+                    },
+                    "position": {
+                        "latitude": -36.857333,
+                        "longitude": 174.764717,
+                        "bearing": "220"
+                    },
+                    "timestamp": 1471866235.03,
+                    "occupancy_status": 1
+                }
+            },
+            {
+                "id": "10994729-55df-00cf-1ced-e6903b6b4179",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14305044896-20160803113210_v43.25",
+                        "route_id": "30502-20160803113210_v43.25",
+                        "start_time": "23:05:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37FA"
+                    },
+                    "position": {
+                        "latitude": -36.94545,
+                        "longitude": 174.775217,
+                        "bearing": "117"
+                    },
+                    "timestamp": 1471866232.863,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "0a1ecd96-9ef9-523a-ad64-ac9af69161a1",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12879046038-20160803113210_v43.25",
+                        "route_id": "87902-20160803113210_v43.25",
+                        "start_time": "23:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "372B"
+                    },
+                    "position": {
+                        "latitude": -36.78387333,
+                        "longitude": 174.75061333
+                    },
+                    "timestamp": 1471866238,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "7478f983-7bd3-c315-14d1-5e25f08a0041",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14655040248-20160803113210_v43.25",
+                        "route_id": "65502-20160803113210_v43.25",
+                        "start_time": "23:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36F3"
+                    },
+                    "position": {
+                        "latitude": -36.868517,
+                        "longitude": 174.778,
+                        "bearing": "192"
+                    },
+                    "timestamp": 1471866237.787,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "64ace675-15bd-ee0a-4fb4-15e973c1ac56",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15348038407-20160803113210_v43.25",
+                        "route_id": "34802-20160803113210_v43.25",
+                        "start_time": "23:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37F9"
+                    },
+                    "position": {
+                        "latitude": -36.9189,
+                        "longitude": 174.76815,
+                        "bearing": "194"
+                    },
+                    "timestamp": 1471866223.618,
+                    "occupancy_status": 1
+                }
+            },
+            {
+                "id": "83cfa836-de4d-abdd-1c0f-2476b63b4114",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12858046368-20160803113210_v43.25",
+                        "route_id": "85801-20160803113210_v43.25",
+                        "start_time": "22:38:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "30B6"
+                    },
+                    "position": {
+                        "latitude": -36.85245667,
+                        "longitude": 174.76575833
+                    },
+                    "timestamp": 1471866216,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "2232dad5-4740-e621-9b88-909208b42afc",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14233045369-20160803113210_v43.25",
+                        "route_id": "23302-20160803113210_v43.25",
+                        "start_time": "23:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37F4"
+                    },
+                    "position": {
+                        "latitude": -36.90561,
+                        "longitude": 174.71220167
+                    },
+                    "timestamp": 1471866082,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "1f3feb0f-5eb7-ac0e-782d-d057e4b9aee8",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "8300033532-20160803113210_v43.25",
+                        "route_id": "30008-20160803113210_v43.25",
+                        "start_time": "23:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "621F"
+                    },
+                    "position": {
+                        "latitude": -36.876883,
+                        "longitude": 174.750817,
+                        "bearing": "192"
+                    },
+                    "timestamp": 1471866130,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "0a6bede3-efd8-277d-1ff2-43b55c1e7d7c",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1035047520-20160803113210_v43.25",
+                        "route_id": "17202-20160803113210_v43.25",
+                        "start_time": "23:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2E7D"
+                    },
+                    "position": {
+                        "latitude": -36.924233,
+                        "longitude": 174.655667,
+                        "bearing": "38"
+                    },
+                    "timestamp": 1471866236.437,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "69e68dc1-b6fa-6a48-24a1-4c6add02caed",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14797028761-20160803113210_v43.25",
+                        "route_id": "79702-20160803113210_v43.25",
+                        "start_time": "23:11:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36B5"
+                    },
+                    "position": {
+                        "latitude": -36.845133,
+                        "longitude": 174.766367,
+                        "bearing": "10"
+                    },
+                    "timestamp": 1471866231.359,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "31590bb9-2d41-1e10-f8b4-175e49fb47ee",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15512039728-20160803113210_v43.25",
+                        "route_id": "51202-20160803113210_v43.25",
+                        "start_time": "23:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37C8"
+                    },
+                    "position": {
+                        "latitude": -36.906683,
+                        "longitude": 174.83465,
+                        "bearing": "120"
+                    },
+                    "timestamp": 1471866221.241,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "8accaedf-7ad4-4d45-7642-75a4850e0520",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "18023027776-20160803113210_v43.25",
+                        "route_id": "00301-20160803113210_v43.25",
+                        "start_time": "23:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "7D9B"
+                    },
+                    "position": {
+                        "latitude": -36.78735,
+                        "longitude": 175.075183,
+                        "bearing": "276"
+                    },
+                    "timestamp": 1471866213.486,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "da3a9f5d-f043-8de8-86ad-3f0e5d1ce35d",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5500011596-20160803113210_v43.25",
+                        "route_id": "50002-20160803113210_v43.25",
+                        "start_time": "22:55:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5E53"
+                    },
+                    "position": {
+                        "latitude": -36.961017,
+                        "longitude": 174.928483,
+                        "bearing": "281"
+                    },
+                    "timestamp": 1471866130,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "2b9d486f-1f3e-c378-126d-de0c6276ad67",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5550011385-20160803113210_v43.25",
+                        "route_id": "55006-20160803113210_v43.25",
+                        "start_time": "23:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5EC5"
+                    },
+                    "position": {
+                        "latitude": -36.848933,
+                        "longitude": 174.77355,
+                        "bearing": "199"
+                    },
+                    "timestamp": 1471866242.284,
+                    "occupancy_status": 1
+                }
+            },
+            {
+                "id": "7c791ba1-1e06-b8c4-fea9-2ff35a2b9d48",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15472039172-20160803113210_v43.25",
+                        "route_id": "47206-20160803113210_v43.25",
+                        "start_time": "23:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37CF"
+                    },
+                    "position": {
+                        "latitude": -36.85752386,
+                        "longitude": 174.76443491
+                    },
+                    "timestamp": 1471866223,
+                    "occupancy_status": 1
+                }
+            },
+            {
+                "id": "cc7b6d27-2bfa-127e-94ef-19092b1f2098",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12839046322-20160803113210_v43.25",
+                        "route_id": "83902-20160803113210_v43.25",
+                        "start_time": "23:05:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "371F"
+                    },
+                    "position": {
+                        "latitude": -36.716783,
+                        "longitude": 174.748283,
+                        "bearing": "320"
+                    },
+                    "timestamp": 1471866233.575,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "9d79ebbd-be74-d050-ab72-429ee228b0a8",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14797028802-20160803113210_v43.25",
+                        "route_id": "79702-20160803113210_v43.25",
+                        "start_time": "22:56:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36BE"
+                    },
+                    "position": {
+                        "latitude": -36.84363,
+                        "longitude": 174.755875
+                    },
+                    "timestamp": 1471866026,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "7df1ef62-da2e-96f6-3038-c1c891a3ea6e",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5550011389-20160803113210_v43.25",
+                        "route_id": "55006-20160803113210_v43.25",
+                        "start_time": "23:10:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5EB0"
+                    },
+                    "position": {
+                        "latitude": -36.9067,
+                        "longitude": 174.856867,
+                        "bearing": "168"
+                    },
+                    "timestamp": 1471866223.268,
+                    "occupancy_status": 1
+                }
+            },
+            {
+                "id": "f59dfa59-924e-b9d7-a26a-27119fe29800",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15409039801-20160803113210_v43.25",
+                        "route_id": "40902-20160803113210_v43.25",
+                        "start_time": "23:05:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2CA8"
+                    },
+                    "position": {
+                        "latitude": -36.93883,
+                        "longitude": 174.85244833
+                    },
+                    "timestamp": 1471866172,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "418d7bb9-73a0-4dd7-05e2-5dbc22801de2",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "4955028442-20160803113210_v43.25",
+                        "route_id": "95504-20160803113210_v43.25",
+                        "start_time": "23:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "522A"
+                    },
+                    "position": {
+                        "latitude": -36.7984,
+                        "longitude": 174.723433,
+                        "bearing": "332"
+                    },
+                    "timestamp": 1471866240.509,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "8e1a07fb-8359-d244-39f2-be92a2e132cc",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1981016585-20160803113210_v43.25",
+                        "route_id": "98101-20160803113210_v43.25",
+                        "start_time": "23:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2CA1"
+                    },
+                    "position": {
+                        "latitude": -36.6264879,
+                        "longitude": 174.7447996
+                    },
+                    "timestamp": 1471866242,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "9cb7210d-053f-1404-d6ab-e5b1e87cef5d",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14797028796-20160803113210_v43.25",
+                        "route_id": "79702-20160803113210_v43.25",
+                        "start_time": "23:26:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36B9"
+                    },
+                    "position": {
+                        "latitude": -36.85785,
+                        "longitude": 174.759567,
+                        "bearing": "99"
+                    },
+                    "timestamp": 1471866229.949,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "fe71c8b6-7f27-5623-1807-ca7299e743d9",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13136037585-20160803113210_v43.25",
+                        "route_id": "13602-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2E82"
+                    },
+                    "position": {
+                        "latitude": -36.86926667,
+                        "longitude": 174.61470833
+                    },
+                    "timestamp": 1471866219,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "7a5e6917-8613-79f8-794a-ce4cdc528ee9",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3803041086-20160803113210_v43.25",
+                        "route_id": "80305-20160803113210_v43.25",
+                        "start_time": "23:25:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "584D"
+                    },
+                    "position": {
+                        "latitude": -36.78479833,
+                        "longitude": 174.750505
+                    },
+                    "timestamp": 1471866077,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "a259e711-6a55-2b2f-954e-55899f17408f",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14731045644-20160803113210_v43.25",
+                        "route_id": "73102-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37E2"
+                    },
+                    "position": {
+                        "latitude": -36.84771833,
+                        "longitude": 174.75636333
+                    },
+                    "timestamp": 1471865991,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "ae5510b6-a65a-05d9-5f15-b39e936646f9",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14731045655-20160803113210_v43.25",
+                        "route_id": "73102-20160803113210_v43.25",
+                        "start_time": "23:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36C6"
+                    },
+                    "position": {
+                        "latitude": -36.84832245,
+                        "longitude": 174.72823415
+                    },
+                    "timestamp": 1471866243,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "45f6efaf-1f0f-b39a-04a3-9a149290b877",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13154037761-20160803113210_v43.25",
+                        "route_id": "15402-20160803113210_v43.25",
+                        "start_time": "23:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "375A"
+                    },
+                    "position": {
+                        "latitude": -36.902117,
+                        "longitude": 174.621617,
+                        "bearing": "20"
+                    },
+                    "timestamp": 1471866232.405,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "23d73e22-7420-22b0-1513-8698a1ce524b",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5500011581-20160803113210_v43.25",
+                        "route_id": "50002-20160803113210_v43.25",
+                        "start_time": "23:25:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5EC8"
+                    },
+                    "position": {
+                        "latitude": -36.88946121,
+                        "longitude": 174.79274195
+                    },
+                    "timestamp": 1471866237,
+                    "occupancy_status": 1
+                }
+            },
+            {
+                "id": "f02ac6cf-d555-62bb-b296-3fc6284f8e44",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14277037947-20160803113210_v43.25",
+                        "route_id": "27702-20160803113210_v43.25",
+                        "start_time": "23:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3A9B"
+                    },
+                    "position": {
+                        "latitude": -36.92595474,
+                        "longitude": 174.74954834
+                    },
+                    "timestamp": 1471866232,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "f515e0a0-18fc-e7ab-463a-35ab003ddb8d",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15455038854-20160803113210_v43.25",
+                        "route_id": "45502-20160803113210_v43.25",
+                        "start_time": "23:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37FC"
+                    },
+                    "position": {
+                        "latitude": -37.03584667,
+                        "longitude": 174.86349833
+                    },
+                    "timestamp": 1471866126,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "73333231-d3b6-7132-7598-844fabbbcf74",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15334038321-20160803113210_v43.25",
+                        "route_id": "33404-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37CB"
+                    },
+                    "position": {
+                        "latitude": -36.93935667,
+                        "longitude": 174.85441167
+                    },
+                    "timestamp": 1471866172,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "f8ab2c52-517e-57ba-1b73-9fc09cf6ad4d",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14721047134-20160803113210_v43.25",
+                        "route_id": "72101-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36C2"
+                    },
+                    "position": {
+                        "latitude": -36.84831833,
+                        "longitude": 174.75635
+                    },
+                    "timestamp": 1471866225,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": "ad56923b-4027-af54-1730-97a15a16269e",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15487039373-20160803113210_v43.25",
+                        "route_id": "48702-20160803113210_v43.25",
+                        "start_time": "23:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37FB"
+                    },
+                    "position": {
+                        "latitude": -36.94015,
+                        "longitude": 174.839833,
+                        "bearing": "140"
+                    },
+                    "timestamp": 1471866237.249,
+                    "occupancy_status": 1
+                }
+            },
+            {
+                "id": "2e9d73db-f312-b3d5-8f69-f264ea093317",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13154037713-20160803113210_v43.25",
+                        "route_id": "15401-20160803113210_v43.25",
+                        "start_time": "22:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37E8"
+                    },
+                    "position": {
+                        "latitude": -36.84703333,
+                        "longitude": 174.76432
+                    },
+                    "timestamp": 1471866176,
+                    "occupancy_status": 0
+                }
+            },
+            {
+                "id": 79651,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1448175600,
+                            "end": null
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "98017-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "98017-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "MODIFIED_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/media/1226694/n01_devonport_ferry_july-2015-web.pdf"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "."
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "This service drop offs only at Devonport."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 79853,
+                "alert": {
+                    "level": "Critical",
+                    "active_period": [
+                        {
+                            "start": 1466121600,
+                            "end": null
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "30008-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "30008-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "30004-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "30004-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "30002-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "30002-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "30006-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "30006-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "STOP_MOVED",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Bus stop change"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": true
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "SkyBus now departs from stop 7018 on Customs St East outside Mecure Hotel."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 80037,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1462320000,
+                            "end": 1470268740
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "stop_id": "8258"
+                        },
+                        {
+                            "stop_id": "8256"
+                        },
+                        {
+                            "stop_id": "8257"
+                        },
+                        {
+                            "stop_id": "8254"
+                        },
+                        {
+                            "stop_id": "8252"
+                        },
+                        {
+                            "stop_id": "8255"
+                        },
+                        {
+                            "stop_id": "8250"
+                        },
+                        {
+                            "stop_id": "8253"
+                        },
+                        {
+                            "stop_id": "8248"
+                        },
+                        {
+                            "stop_id": "1400"
+                        },
+                        {
+                            "stop_id": "8246"
+                        },
+                        {
+                            "stop_id": "8251"
+                        }
+                    ],
+                    "cause": "CONSTRUCTION",
+                    "effect": "STOP_MOVED",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/hunua"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Bus stop closures"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": true
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Check bus stop closures and detours affecting this service due to the Hunua project"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 80038,
+                "alert": {
+                    "level": "Warning",
+                    "active_period": [
+                        {
+                            "start": 1451520000,
+                            "end": 1451905200
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "52907-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "52907-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "52905-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "52905-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "UNKNOWN_CAUSE",
+                    "effect": "NO_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/media/1541447/nr_niterider_oct-2015-web.pdf"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "NiteRider N97"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Service does not pick up on the way to the city, see here for"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 81778,
+                "alert": {
+                    "level": "Warning",
+                    "active_period": [
+                        {
+                            "start": 1461888000,
+                            "end": 1462334400
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "stop_id": "7058"
+                        }
+                    ],
+                    "cause": "MAINTENANCE",
+                    "effect": "STOP_MOVED",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Temporary bus stop closure"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": true
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Stop closed Monday 2 May and Tuesday 3 May 2016 from 8pm until end of service. Use stop on Mayoral Dr by AUT."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 81821,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1461024000,
+                            "end": null
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "stop_id": "8349"
+                        },
+                        {
+                            "stop_id": "8352"
+                        }
+                    ],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "STOP_MOVED",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Bus stop closed"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": true
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "This stop has closed, an alternative stop is located near Bolton St."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 81779,
+                "alert": {
+                    "level": "Warning",
+                    "active_period": [
+                        {
+                            "start": 1460678400,
+                            "end": 1464739200
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "68501-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "68501-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "UNKNOWN_CAUSE",
+                    "effect": "REDUCED_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "685X route change"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "From Mon 18 April, route 685X will terminate at Downtown and no longer travel to Midtown"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 81898,
+                "alert": {
+                    "level": "Critical",
+                    "active_period": [
+                        {
+                            "start": 1461628800,
+                            "end": 1472601600
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "stop_id": "7098"
+                        },
+                        {
+                            "route_id": "04012-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "04012-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "07012-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "07012-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "11012-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "11012-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09012-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09012-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "15012-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "15012-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "13012-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "13012-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "17104-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "17104-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "UNKNOWN_CAUSE",
+                    "effect": "STOP_MOVED",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/service-announcements/roadworks-affecting-public-transport/#VictoriaStWest"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Stop 7098 closed"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Stop 7098 at 66 Victoria St West is closed, please use stop 7076 on Mayoral Dr near Aotea Centre\n"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 82002,
+                "alert": {
+                    "level": "Critical",
+                    "active_period": [
+                        {
+                            "start": 1462766400,
+                            "end": 1464652800
+                        }
+                    ],
+                    "informed_entity": [],
+                    "cause": "TECHNICAL_PROBLEM",
+                    "effect": "NO_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/media/1785596/wi_waiheke-island-ttb_may-2016_web.pdf"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Route 5 no longer operate"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "This service no longer operates, please see timetable for "
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 82004,
+                "alert": {
+                    "level": "Critical",
+                    "active_period": [
+                        {
+                            "start": 1462766400,
+                            "end": 1464652800
+                        }
+                    ],
+                    "informed_entity": [],
+                    "cause": "UNKNOWN_CAUSE",
+                    "effect": "NO_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/media/1785596/wi_waiheke-island-ttb_may-2016_web.pdf"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Route 6 no longer operate"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "This service no longer operates, please see timetable for"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 82548,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1464652800,
+                            "end": 1466121600
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "stop_id": "4902"
+                        },
+                        {
+                            "stop_id": "4927"
+                        }
+                    ],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "MODIFIED_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/service-announcements/bus-stop-changes-for-060-services/"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Permanent bus stop closure for 060 service "
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": true
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "4902 at 16 Railway St, Helensville and 4927 at 11 Railway St, Helensville will no longer be used by the 060 bus service from Thursday 16 June 2016."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 82627,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1465257600,
+                            "end": 1466207940
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "08004-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "08004-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "07902-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "07902-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "08001-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "08001-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "08202-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "08202-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "07901-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "07901-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "08008-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "08008-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "08501-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "08501-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "08201-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "08201-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "08502-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "08502-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "08701-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "08701-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "08702-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "08702-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "08703-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "08703-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "08704-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "08704-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09002-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09002-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09001-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09001-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09201-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09201-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09006-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09006-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09005-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09005-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09202-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09202-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09204-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09204-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09203-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09203-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09205-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09205-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09206-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09206-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09208-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09208-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09207-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09207-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09701-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09701-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09702-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09702-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09011-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09011-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "09012-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "09012-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "11301-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "11301-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "11306-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "11306-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "11302-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "11302-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "11304-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "11304-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "11502-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "11502-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "11501-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "11501-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "11303-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "11303-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "11503-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "11503-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "11504-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "11504-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "11011-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "11011-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "22402-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "22402-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "11012-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "11012-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "22401-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "22401-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "01453-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "01453-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "04052-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "04052-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "05053-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "05053-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "STOP_MOVED",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/service-announcements/changes-to-some-henderson-bus-stops-from-thursday-16-june/"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Henderson bus stop changes affecting this service"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": true
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Some Henderson bus stops are changing from Thursday 16 June "
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 82623,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1465257600,
+                            "end": 1466985540
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "10001-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "10001-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "10002-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "10002-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "10003-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "10003-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "10005-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "10005-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "10004-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "10004-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "10006-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "10006-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "10007-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "10007-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "ADDITIONAL_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/service-announcements/northern-express-timetable-changes-from-sunday-26-june/"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Norther Express timetable changes"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "New Northern Express timetables from Sunday 26 June and Northern Express Hibiscus Coast services every 10 minutes in peak (6:30am – 8:30am to city, 4pm – 6:30pm to Hibiscus Coast) from Monday 27 June "
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 82653,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1465516800,
+                            "end": 1473984000
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "stop_id": "4086"
+                        },
+                        {
+                            "route_id": "95302-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "95302-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "DETOUR",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "953 route change"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "953 services now exit the Northern Motorway at Stafford Road, stop 4086 at 28 Onewa Rd is closed"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 82921,
+                "alert": {
+                    "level": "Critical",
+                    "active_period": [
+                        {
+                            "start": 1466121600,
+                            "end": null
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "30010-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "30010-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "30012-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "30012-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "MODIFIED_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "http://www.skybus.co.nz/find-a-stop"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Shuttle from Downtown to Queen St"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": true
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "A shuttle is available from Customs St East outside Mercure Hotel (stop 7018) and 60 Hobson St (stop 1464) to connect with the SkyBus from 380 Queen St opposite Town Hall (stop 7060)."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 82922,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1466121600,
+                            "end": null
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "30009-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "30009-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "30011-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "30011-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "MODIFIED_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "http://www.skybus.co.nz/find-a-stop"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Shuttle from Queen St to Downtown"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": true
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "A shuttle is available from Queen St opposite Town Hall (stop 7060) to drop passengers off at stops along Queen St and terminates on Customs St East outside Mercure Hotel (stop 7018)."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 82944,
+                "alert": {
+                    "level": "Warning",
+                    "active_period": [
+                        {
+                            "start": 1466467200,
+                            "end": null
+                        }
+                    ],
+                    "informed_entity": [],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "MODIFIED_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/timetables/school-timetables/manurewa-east/"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "002 School bus route change"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": true
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "From Tuesday 21 June this school bus route has changed to start from Manurewa East School "
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83363,
+                "alert": {
+                    "level": "Warning",
+                    "active_period": [
+                        {
+                            "start": 1467849600,
+                            "end": 1475193600
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "89104-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "89104-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "STOP_MOVED",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "891X and 881 bus stop change outbound"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "The 891X and 881 will no longer use stop 7016 on Customs St East near Queens Arcade. These services will now use stop 7017 at 23 Customs St East"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83400,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1467936000,
+                            "end": 1468886400
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "stop_id": "4214"
+                        }
+                    ],
+                    "cause": "CONSTRUCTION",
+                    "effect": "DETOUR",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/service-announcements/roadworks-affecting-public-transport/#UniversityAve"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Temporary bus stop closure"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "This stop is closed due to roadworks"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83401,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1467936000,
+                            "end": 1468886400
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "56002-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "56002-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "CONSTRUCTION",
+                    "effect": "DETOUR",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/service-announcements/roadworks-affecting-public-transport/#UniversityAve"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "560 diversion"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Mon 27 June to Mon 18 July the 560 will not use stop 4246 on Coliseum Dr near QBE Stadium it will use stop 3589 on Don McKinnon Dr opposite Albany Mega Centre"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83406,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1467936000,
+                            "end": 1468886400
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "95701-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "95701-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "CONSTRUCTION",
+                    "effect": "DETOUR",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/service-announcements/roadworks-affecting-public-transport/#UniversityAve"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "957 diversion"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Mon 27 June to Mon 18 July the 957 will not use stop 3565 on Albany Expressway near Massey uni. Please use stop 4246 on Coliseum Dr near QBE Stadium"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83407,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1467936000,
+                            "end": 1468886400
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "95702-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "95702-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "CONSTRUCTION",
+                    "effect": "DETOUR",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "957 diversion"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Mon 27 June to Mon 18 July the 957 will not use stop 3565 on Albany Expressway near Massey University. Please use stop 4245 on Coliseum Dr opposite QBE Stadium"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83408,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1467936000,
+                            "end": 1468108800
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "stop_id": "1323"
+                        }
+                    ],
+                    "cause": "MAINTENANCE",
+                    "effect": "STOP_MOVED",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/service-announcements/roadworks-affecting-public-transport/#CommerceSt"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Front of stop 1323 closed"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Sat 9 and Sun 10 July: 5am to 6pm stop 1323 on Commerce St opposite Achilles House will be partially closed due to scaffolding, please use the rear of this stop"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83530,
+                "alert": {
+                    "level": "Critical",
+                    "active_period": [
+                        {
+                            "start": 1468454400,
+                            "end": 1474070340
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "30952-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "30952-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "TECHNICAL_PROBLEM",
+                    "effect": "MODIFIED_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/timetables/school-timetables/howick-college/"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "309 Howick College School bus changes"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "This school bus service has changed. Go to School Timetables for"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83531,
+                "alert": {
+                    "level": "Critical",
+                    "active_period": [
+                        {
+                            "start": 1468454400,
+                            "end": 1474070340
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "30352-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "30352-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "TECHNICAL_PROBLEM",
+                    "effect": "MODIFIED_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/timetables/school-timetables/"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "303 Howick College School bus changes"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "This school bus service has changed. Go to School Timetables for "
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83540,
+                "alert": {
+                    "level": "Critical",
+                    "active_period": [
+                        {
+                            "start": 1468454400,
+                            "end": 1474070340
+                        }
+                    ],
+                    "informed_entity": [],
+                    "cause": "TECHNICAL_PROBLEM",
+                    "effect": "MODIFIED_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/timetables/school-timetables/"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "School bus route change"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": true
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "This school bus service no longer starts from Hobsonville and will now start from Greenhithe. Please refer to School timetables for "
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83541,
+                "alert": {
+                    "level": "Critical",
+                    "active_period": [
+                        {
+                            "start": 1468454400,
+                            "end": 1474070340
+                        }
+                    ],
+                    "informed_entity": [],
+                    "cause": "TECHNICAL_PROBLEM",
+                    "effect": "MODIFIED_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/timetables/school-timetables/"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "School bus route change"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": true
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "This school bus service now terminates in Greenhithe and no longer travels to Hobsonville. Please refer to School timetables for "
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83795,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1470700800,
+                            "end": 1483056000
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "route_id": "31001-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "31001-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "31002-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "31002-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "39201-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "39201-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "39202-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "39202-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "MODIFIED_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/service-announcements/permanent-route-changes-for-31x-and-392-services/"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "31X and 392 services route change"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "31X and 392 services permanent route changes due to Wheturangi Rd closure"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83884,
+                "alert": {
+                    "level": "Info",
+                    "active_period": [
+                        {
+                            "start": 1471392000,
+                            "end": 1480032000
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "stop_id": "5293"
+                        },
+                        {
+                            "stop_id": "5291"
+                        },
+                        {
+                            "stop_id": "5938"
+                        },
+                        {
+                            "stop_id": "5292"
+                        },
+                        {
+                            "route_id": "15012-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "15012-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "15011-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "15011-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "15302-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "15302-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "15301-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "15301-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "15304-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "15304-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "15303-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "15303-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "15401-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "15401-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "15402-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "15402-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "15404-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "15404-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "15601-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "15601-20160803113210_v43.25"
+                        },
+                        {
+                            "route_id": "15602-20160729161628_v43.23"
+                        },
+                        {
+                            "route_id": "15602-20160803113210_v43.25"
+                        }
+                    ],
+                    "cause": "MAINTENANCE",
+                    "effect": "DETOUR",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/service-announcements/roadworks-affecting-public-transport/#GlendaleRd"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Glendale Rd one way closure"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": false
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Mon 29 Aug to Fri 25 Nov: Bus stop closures in place due to a one way road closure on Glendale Road "
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83906,
+                "alert": {
+                    "level": "Critical",
+                    "active_period": [
+                        {
+                            "start": 1471910400,
+                            "end": 1471977000
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "trip": {
+                                "trip_id": "7003018497-20160803113210_v43.25"
+                            }
+                        }
+                    ],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "MODIFIED_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/service-announcements/half-moon-bay-ferry-sailing-changes/"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Half Moon Bay ferry sailing changes"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": true
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Due to low tides this service will depart Downtown Ferry Terminal 15 minutes later at 5.30pm on Tuesday 23 August 2016"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 83911,
+                "alert": {
+                    "level": "Critical",
+                    "active_period": [
+                        {
+                            "start": 1471910400,
+                            "end": 1471978800
+                        }
+                    ],
+                    "informed_entity": [
+                        {
+                            "trip": {
+                                "trip_id": "7003036849-20160803113210_v43.25"
+                            }
+                        }
+                    ],
+                    "cause": "OTHER_CAUSE",
+                    "effect": "MODIFIED_SERVICE",
+                    "url": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "https://at.govt.nz/bus-train-ferry/service-announcements/half-moon-bay-ferry-sailing-changes/"
+                            }
+                        ]
+                    },
+                    "header_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Half Moon Bay ferry sailing changes"
+                            }
+                        ]
+                    },
+                    "is_show_header": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": true
+                            }
+                        ]
+                    },
+                    "description_text": {
+                        "translation": [
+                            {
+                                "language": "en",
+                                "text": "Due to low tides this service will depart Half Moon Bay 20 minutes later at 6.10pm on Tuesday 23 August 2016"
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    "error": null
+}

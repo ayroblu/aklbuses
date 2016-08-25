@@ -1,0 +1,229 @@
+{
+    "status": "OK",
+    "response": {
+        "header": {
+            "gtfs_realtime_version": "1.0",
+            "incrementality": 0,
+            "timestamp": 1471869472.963
+        },
+        "entity": [
+            {
+                "id": "d9c40c41-ee86-98a8-b542-d06f11eb13a7",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "15471039169-20160803113210_v43.25",
+                        "route_id": "47104-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3782"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 36,
+                        "stop_id": "6006",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -86446,
+                            "time": 1471869454
+                        }
+                    },
+                    "timestamp": 1471869454
+                }
+            },
+            {
+                "id": "cdc729e7-e389-999c-25b6-3c5a4fdecfcf",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "8300033524-20160803113210_v43.25",
+                        "route_id": "30008-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "6218"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 10,
+                        "stop_id": "2010",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -463,
+                            "time": 1471869257
+                        }
+                    },
+                    "timestamp": 1471869257
+                }
+            },
+            {
+                "id": "c8de4487-6654-f6c8-eb40-c7771cdeae11",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "8300033515-20160803113210_v43.25",
+                        "route_id": "30004-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "6220"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 5,
+                        "stop_id": "7164",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -40,
+                            "time": 1471869454.448
+                        }
+                    },
+                    "timestamp": 1471869454.448
+                }
+            },
+            {
+                "id": "ff6729f1-f6dc-91ad-63a1-af061a26a961",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "14233045364-20160803113210_v43.25",
+                        "route_id": "23302-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F82"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 45,
+                        "stop_id": "5908",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -86896,
+                            "time": 1471869404
+                        }
+                    },
+                    "timestamp": 1471869404
+                }
+            },
+            {
+                "id": "cae034f8-2a90-6ce3-97d1-691de157635b",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "5552011854-20160803113210_v43.25",
+                        "route_id": "55206-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5ECD"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 21,
+                        "stop_id": "6109",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -85095,
+                            "time": 1471869466.819
+                        }
+                    },
+                    "timestamp": 1471869466.819
+                }
+            },
+            {
+                "id": "6548fc52-02e0-4de0-b03d-4e0325eb23e4",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "18023000185-20160803113210_v43.25",
+                        "route_id": "00302-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "7D9B"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 17,
+                        "stop_id": "1219",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -86315,
+                            "time": 1471869371
+                        }
+                    },
+                    "timestamp": 1471869371
+                }
+            },
+            {
+                "id": "0d0e7561-4817-e001-dae0-45f5d143c7d4",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "5550011385-20160803113210_v43.25",
+                        "route_id": "55006-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5EC5"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 66,
+                        "stop_id": "6031",
+                        "schedule_relationship": 0,
+                        "departure": {
+                            "delay": -86483,
+                            "time": 1471869450.98
+                        }
+                    },
+                    "timestamp": 1471869450.98
+                }
+            },
+            {
+                "id": "41218329-91dd-16ce-f4e5-94227d07281d",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "15472039172-20160803113210_v43.25",
+                        "route_id": "47206-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37CF"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 64,
+                        "stop_id": "6797",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -86680,
+                            "time": 1471869416.356
+                        }
+                    },
+                    "timestamp": 1471869416.356
+                }
+            },
+            {
+                "id": "8a64b35c-6e02-1140-443d-ea53c840da37",
+                "is_deleted": false,
+                "trip_update": {
+                    "trip": {
+                        "trip_id": "1033047428-20160803113210_v43.25",
+                        "route_id": "15302-20160803113210_v43.25",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37E8"
+                    },
+                    "stop_time_update": {
+                        "stop_sequence": 70,
+                        "stop_id": "5835",
+                        "schedule_relationship": 0,
+                        "arrival": {
+                            "delay": -87669,
+                            "time": 1471869436.461
+                        }
+                    },
+                    "timestamp": 1471869436.461
+                }
+            }
+        ]
+    },
+    "error": null
+}

@@ -1,0 +1,2945 @@
+{
+    "status": "OK",
+    "response": {
+        "header": {
+            "gtfs_realtime_version": "1.0",
+            "incrementality": 0,
+            "timestamp": 1471863091.747
+        },
+        "entity": [
+            {
+                "id": "023c4c8d-6026-c214-bdf2-e4d58a3a5fa6",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14305044895-20160803113210_v43.25",
+                        "route_id": "30502-20160803113210_v43.25",
+                        "start_time": "22:05:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2931"
+                    },
+                    "position": {
+                        "latitude": -36.966855,
+                        "longitude": 174.80911833
+                    },
+                    "timestamp": 1471863061
+                }
+            },
+            {
+                "id": "4587b972-5811-8c3b-0611-e329d6ecb050",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12879046037-20160803113210_v43.25",
+                        "route_id": "87902-20160803113210_v43.25",
+                        "start_time": "22:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3084"
+                    },
+                    "position": {
+                        "latitude": -36.7679,
+                        "longitude": 174.748317,
+                        "bearing": "340"
+                    },
+                    "timestamp": 1471863084.919
+                }
+            },
+            {
+                "id": "b908204d-dd9d-7348-bc16-222aba839c02",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14769040837-20160803113210_v43.25",
+                        "route_id": "76901-20160803113210_v43.25",
+                        "start_time": "22:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3701"
+                    },
+                    "position": {
+                        "latitude": -36.84589822,
+                        "longitude": 174.76753887
+                    },
+                    "timestamp": 1471863068
+                }
+            },
+            {
+                "id": "b349d4f5-e677-0b2e-688d-69b535c0bb3a",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14020042881-20160803113210_v43.25",
+                        "route_id": "02001-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3709"
+                    },
+                    "position": {
+                        "latitude": -36.84635,
+                        "longitude": 174.766133,
+                        "bearing": "2"
+                    },
+                    "timestamp": 1471863054.608
+                }
+            },
+            {
+                "id": "5be2d387-e51c-14c2-b5dc-e363103a818f",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1983016790-20160803113210_v43.25",
+                        "route_id": "98302-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3713"
+                    },
+                    "position": {
+                        "latitude": -36.62743262,
+                        "longitude": 174.73398833
+                    },
+                    "timestamp": 1471863056
+                }
+            },
+            {
+                "id": "9e567644-afee-169e-713b-0aac089e548d",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12879045987-20160803113210_v43.25",
+                        "route_id": "87901-20160803113210_v43.25",
+                        "start_time": "22:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3719"
+                    },
+                    "position": {
+                        "latitude": -36.782717,
+                        "longitude": 174.753,
+                        "bearing": "135"
+                    },
+                    "timestamp": 1471863063.027
+                }
+            },
+            {
+                "id": "452149ae-b8d5-ebf7-aaae-20f8d4f7b77f",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12875045926-20160803113210_v43.25",
+                        "route_id": "87502-20160803113210_v43.25",
+                        "start_time": "22:50:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3724"
+                    },
+                    "position": {
+                        "latitude": -36.850883,
+                        "longitude": 174.764533,
+                        "bearing": "291"
+                    },
+                    "timestamp": 1471863088
+                }
+            },
+            {
+                "id": "8886faf4-2eb4-c6ab-18d5-59e1d11d34fa",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1981016584-20160803113210_v43.25",
+                        "route_id": "98101-20160803113210_v43.25",
+                        "start_time": "22:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3727"
+                    },
+                    "position": {
+                        "latitude": -36.6376,
+                        "longitude": 174.761217,
+                        "bearing": "33"
+                    },
+                    "timestamp": 1471863080.803
+                }
+            },
+            {
+                "id": "8c84f5f8-f714-67cb-7675-7fd27bc00764",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1982016690-20160803113210_v43.25",
+                        "route_id": "98201-20160803113210_v43.25",
+                        "start_time": "22:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3737"
+                    },
+                    "position": {
+                        "latitude": -36.62435491,
+                        "longitude": 174.66775124
+                    },
+                    "timestamp": 1471863011
+                }
+            },
+            {
+                "id": "901185a3-97f6-67cd-c0d5-74fc7acf0dc5",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13115037386-20160803113210_v43.25",
+                        "route_id": "11503-20160803113210_v43.25",
+                        "start_time": "22:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3753"
+                    },
+                    "position": {
+                        "latitude": -36.900517,
+                        "longitude": 174.66595,
+                        "bearing": "107"
+                    },
+                    "timestamp": 1471863089.433
+                }
+            },
+            {
+                "id": "54b6c1aa-3e6f-184e-485c-a3cb97dfcacc",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13115037368-20160803113210_v43.25",
+                        "route_id": "11502-20160803113210_v43.25",
+                        "start_time": "21:50:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3779"
+                    },
+                    "position": {
+                        "latitude": -36.87469167,
+                        "longitude": 174.62684833
+                    },
+                    "timestamp": 1471862842
+                }
+            },
+            {
+                "id": "8041c001-b150-cd78-28d7-0c6249ebe0a8",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14305044845-20160803113210_v43.25",
+                        "route_id": "30501-20160803113210_v43.25",
+                        "start_time": "22:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3782"
+                    },
+                    "position": {
+                        "latitude": -36.92975,
+                        "longitude": 174.782467,
+                        "bearing": "179"
+                    },
+                    "timestamp": 1471863087.246
+                }
+            },
+            {
+                "id": "ee57c195-58c9-7127-65d8-052cfeb0a3fc",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15497039538-20160803113210_v43.25",
+                        "route_id": "49703-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3783"
+                    },
+                    "position": {
+                        "latitude": -36.94496,
+                        "longitude": 174.85520667
+                    },
+                    "timestamp": 1471862884
+                }
+            },
+            {
+                "id": "bff2b79f-67f1-9dc3-c66b-35afe21ae974",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13221043584-20160803113210_v43.25",
+                        "route_id": "22101-20160803113210_v43.25",
+                        "start_time": "22:29:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3787"
+                    },
+                    "position": {
+                        "latitude": -36.862317,
+                        "longitude": 174.761317,
+                        "bearing": "12"
+                    },
+                    "timestamp": 1471863082.351
+                }
+            },
+            {
+                "id": "2e929281-7da6-a6c4-f9c3-02b361b6e77f",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13149037665-20160803113210_v43.25",
+                        "route_id": "14902-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3788"
+                    },
+                    "position": {
+                        "latitude": -36.898283,
+                        "longitude": 174.649767,
+                        "bearing": "307"
+                    },
+                    "timestamp": 1471863087.747
+                }
+            },
+            {
+                "id": "e3a41710-60dd-c52c-b5ed-e3dfcd19e3d0",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15497039552-20160803113210_v43.25",
+                        "route_id": "49702-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3811"
+                    },
+                    "position": {
+                        "latitude": -36.857583,
+                        "longitude": 174.764517,
+                        "bearing": "222"
+                    },
+                    "timestamp": 1471863083.611
+                }
+            },
+            {
+                "id": "fa3f29b6-22ac-65e4-6b88-8ea79133e91f",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "4974028605-20160803113210_v43.25",
+                        "route_id": "97401-20160803113210_v43.25",
+                        "start_time": "22:10:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5213"
+                    },
+                    "position": {
+                        "latitude": -36.84332167,
+                        "longitude": 174.76578833
+                    },
+                    "timestamp": 1471862908
+                }
+            },
+            {
+                "id": "f17ea9d9-6595-0d5f-f792-cbc10a9f10af",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "4973028512-20160803113210_v43.25",
+                        "route_id": "97301-20160803113210_v43.25",
+                        "start_time": "22:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5216"
+                    },
+                    "position": {
+                        "latitude": -36.79475,
+                        "longitude": 174.700917,
+                        "bearing": "168"
+                    },
+                    "timestamp": 1471863063.952
+                }
+            },
+            {
+                "id": "da07d7c7-9a0f-eba0-a784-47f7cc52003a",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3100034016-20160803113210_v43.25",
+                        "route_id": "10003-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5828"
+                    },
+                    "position": {
+                        "latitude": -36.7535,
+                        "longitude": 174.729433,
+                        "bearing": "138"
+                    },
+                    "timestamp": 1471863079.817
+                }
+            },
+            {
+                "id": "552d018d-f30c-e7b2-a08c-93868d306ca6",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3886005621-20160803113210_v43.25",
+                        "route_id": "88602-20160803113210_v43.25",
+                        "start_time": "23:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5835"
+                    },
+                    "position": {
+                        "latitude": -36.75177,
+                        "longitude": 174.72793667
+                    },
+                    "timestamp": 1471862951
+                }
+            },
+            {
+                "id": "2c8b84bb-7ec1-677a-0699-ee52413e28a6",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3080046741-20160803113210_v43.25",
+                        "route_id": "08001-20160803113210_v43.25",
+                        "start_time": "22:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5874"
+                    },
+                    "position": {
+                        "latitude": -36.84820167,
+                        "longitude": 174.76214333
+                    },
+                    "timestamp": 1471863016
+                }
+            },
+            {
+                "id": "9712025e-5d72-b505-abfa-5c11d6f5a1ff",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3100034276-20160803113210_v43.25",
+                        "route_id": "10002-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5899"
+                    },
+                    "position": {
+                        "latitude": -36.7303,
+                        "longitude": 174.715283,
+                        "bearing": "348"
+                    },
+                    "timestamp": 1471863080.558
+                }
+            },
+            {
+                "id": "0556dd99-06dc-81ed-0ca5-8e0e38d77bf3",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3092037177-20160803113210_v43.25",
+                        "route_id": "09204-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5947"
+                    },
+                    "position": {
+                        "latitude": -36.8656,
+                        "longitude": 174.628883,
+                        "bearing": "5"
+                    },
+                    "timestamp": 1471863083.679
+                }
+            },
+            {
+                "id": "b088beb6-4a7f-d989-e462-046e044bf1c0",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3880005409-20160803113210_v43.25",
+                        "route_id": "88002-20160803113210_v43.25",
+                        "start_time": "22:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5971"
+                    },
+                    "position": {
+                        "latitude": -36.7511645,
+                        "longitude": 174.72806014
+                    },
+                    "timestamp": 1471863085
+                }
+            },
+            {
+                "id": "f50cbda3-21a5-f31a-8a65-4f15b6b99265",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3887005725-20160803113210_v43.25",
+                        "route_id": "88706-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5972"
+                    },
+                    "position": {
+                        "latitude": -36.72217833,
+                        "longitude": 174.71324
+                    },
+                    "timestamp": 1471863035
+                }
+            },
+            {
+                "id": "f3752fc3-ad79-d72a-55e8-75d65b23244c",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "8300033520-20160803113210_v43.25",
+                        "route_id": "30004-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "6212"
+                    },
+                    "position": {
+                        "latitude": -36.852367,
+                        "longitude": 174.763883,
+                        "bearing": "194"
+                    },
+                    "timestamp": 1471863074.898
+                }
+            },
+            {
+                "id": "b5c3e7f0-0e7c-6f35-6495-60501f4a6a0d",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "8300033750-20160803113210_v43.25",
+                        "route_id": "30001-20160803113210_v43.25",
+                        "start_time": "23:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "6216"
+                    },
+                    "position": {
+                        "latitude": -37.0044,
+                        "longitude": 174.782533,
+                        "bearing": "281"
+                    },
+                    "timestamp": 1471863072
+                }
+            },
+            {
+                "id": "38da0d7f-89ab-681e-f94f-2e35fdafadcf",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "8300033745-20160803113210_v43.25",
+                        "route_id": "30001-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "6217"
+                    },
+                    "position": {
+                        "latitude": -36.90894881,
+                        "longitude": 174.75856416
+                    },
+                    "timestamp": 1471863091
+                }
+            },
+            {
+                "id": "0d94ced5-030e-4a26-2db9-f27d26aca4f5",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "8300033531-20160803113210_v43.25",
+                        "route_id": "30008-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "6218"
+                    },
+                    "position": {
+                        "latitude": -36.91628779,
+                        "longitude": 174.75497854
+                    },
+                    "timestamp": 1471863023
+                }
+            },
+            {
+                "id": "651f0d22-723e-6905-c65d-636044dfc188",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "8300033760-20160803113210_v43.25",
+                        "route_id": "30005-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "6220"
+                    },
+                    "position": {
+                        "latitude": -36.852635,
+                        "longitude": 174.76378833
+                    },
+                    "timestamp": 1471863024
+                }
+            },
+            {
+                "id": "3ad9df95-01a4-0044-43c7-7bc9555e3b4b",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15334038322-20160803113210_v43.25",
+                        "route_id": "33404-20160803113210_v43.25",
+                        "start_time": "21:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "380F"
+                    },
+                    "position": {
+                        "latitude": -36.96141667,
+                        "longitude": 174.85409167
+                    },
+                    "timestamp": 1471862830
+                }
+            },
+            {
+                "id": "960372e9-2b23-b066-b2da-80b6f0d74c87",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14655040240-20160803113210_v43.25",
+                        "route_id": "65502-20160803113210_v43.25",
+                        "start_time": "22:25:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36DD"
+                    },
+                    "position": {
+                        "latitude": -36.880467,
+                        "longitude": 174.8516,
+                        "bearing": "99"
+                    },
+                    "timestamp": 1471863075.827
+                }
+            },
+            {
+                "id": "6b185e67-4be8-addc-6ddb-e26353c49b7a",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12839046267-20160803113210_v43.25",
+                        "route_id": "83901-20160803113210_v43.25",
+                        "start_time": "22:05:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "371F"
+                    },
+                    "position": {
+                        "latitude": -36.812065,
+                        "longitude": 174.75463667
+                    },
+                    "timestamp": 1471863085
+                }
+            },
+            {
+                "id": "957f7d2a-384f-089e-4f6e-5d14a6bd26e6",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14797028802-20160803113210_v43.25",
+                        "route_id": "79702-20160803113210_v43.25",
+                        "start_time": "22:56:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36BE"
+                    },
+                    "position": {
+                        "latitude": -36.8405,
+                        "longitude": 174.755633
+                    },
+                    "timestamp": 1471863078
+                }
+            },
+            {
+                "id": "e5d4dc84-62b9-13fb-26f1-8c0e962f3ea2",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5552011720-20160803113210_v43.25",
+                        "route_id": "55211-20160803113210_v43.25",
+                        "start_time": "22:25:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5E44"
+                    },
+                    "position": {
+                        "latitude": -36.910533,
+                        "longitude": 174.877167,
+                        "bearing": "258"
+                    },
+                    "timestamp": 1471863080.63
+                }
+            },
+            {
+                "id": "c2b78e34-2ddc-32c8-d46d-facd523a43ea",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15512039727-20160803113210_v43.25",
+                        "route_id": "51202-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2CA8"
+                    },
+                    "position": {
+                        "latitude": -36.86605,
+                        "longitude": 174.770467,
+                        "bearing": "104"
+                    },
+                    "timestamp": 1471863084.507
+                }
+            },
+            {
+                "id": "3b6ab6b4-c89e-cbe6-2adf-56878930f528",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "4955028431-20160803113210_v43.25",
+                        "route_id": "95504-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "520D"
+                    },
+                    "position": {
+                        "latitude": -36.7815557,
+                        "longitude": 174.72103488
+                    },
+                    "timestamp": 1471863090
+                }
+            },
+            {
+                "id": "2fe66544-081e-819e-6578-da5032c5ff02",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3080046792-20160803113210_v43.25",
+                        "route_id": "08004-20160803113210_v43.25",
+                        "start_time": "22:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "57BA"
+                    },
+                    "position": {
+                        "latitude": -36.8703,
+                        "longitude": 174.620583,
+                        "bearing": "2"
+                    },
+                    "timestamp": 1471863074
+                }
+            },
+            {
+                "id": "d74876f3-8b1f-85db-ec6a-e2958006f1a0",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13154037713-20160803113210_v43.25",
+                        "route_id": "15401-20160803113210_v43.25",
+                        "start_time": "22:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37E8"
+                    },
+                    "position": {
+                        "latitude": -36.919717,
+                        "longitude": 174.633117,
+                        "bearing": "115"
+                    },
+                    "timestamp": 1471863080.771
+                }
+            },
+            {
+                "id": "8387fdb8-b943-944f-0a4d-caecac267150",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5550011382-20160803113210_v43.25",
+                        "route_id": "55006-20160803113210_v43.25",
+                        "start_time": "22:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5E74"
+                    },
+                    "position": {
+                        "latitude": -36.86765,
+                        "longitude": 174.778117,
+                        "bearing": "104"
+                    },
+                    "timestamp": 1471863073.173
+                }
+            },
+            {
+                "id": "bf02e751-91f4-0782-920a-8c0a2548512c",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5552011859-20160803113210_v43.25",
+                        "route_id": "55206-20160803113210_v43.25",
+                        "start_time": "22:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5ECD"
+                    },
+                    "position": {
+                        "latitude": -36.889733,
+                        "longitude": 174.908833,
+                        "bearing": "17"
+                    },
+                    "timestamp": 1471863079
+                }
+            },
+            {
+                "id": "8d2b5c89-f646-a943-db74-57144065a0f3",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5550011384-20160803113210_v43.25",
+                        "route_id": "55006-20160803113210_v43.25",
+                        "start_time": "21:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5ECC"
+                    },
+                    "position": {
+                        "latitude": -36.92807833,
+                        "longitude": 174.90389667
+                    },
+                    "timestamp": 1471862962
+                }
+            },
+            {
+                "id": "9ced541c-dbec-911f-8ec8-641c2f5cbba2",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14797028829-20160803113210_v43.25",
+                        "route_id": "79702-20160803113210_v43.25",
+                        "start_time": "22:41:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37F2"
+                    },
+                    "position": {
+                        "latitude": -36.84617359,
+                        "longitude": 174.76619385
+                    },
+                    "timestamp": 1471863082
+                }
+            },
+            {
+                "id": "89b4c8dc-3e62-0f4f-d92c-8c68926e1613",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14798046902-20160803113210_v43.25",
+                        "route_id": "79801-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36D6"
+                    },
+                    "position": {
+                        "latitude": -36.86605,
+                        "longitude": 174.770467,
+                        "bearing": "102"
+                    },
+                    "timestamp": 1471863079.781
+                }
+            },
+            {
+                "id": "13b68882-2910-016f-5f84-fea870499c22",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14710040358-20160803113210_v43.25",
+                        "route_id": "71002-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36FC"
+                    },
+                    "position": {
+                        "latitude": -36.9017,
+                        "longitude": 174.859867,
+                        "bearing": "279"
+                    },
+                    "timestamp": 1471863076.054
+                }
+            },
+            {
+                "id": "383dbe17-331b-9251-641b-6c0deaebb1dd",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14030042355-20160803113210_v43.25",
+                        "route_id": "03002-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37D7"
+                    },
+                    "position": {
+                        "latitude": -36.8577,
+                        "longitude": 174.759033,
+                        "bearing": "168"
+                    },
+                    "timestamp": 1471863054.101
+                }
+            },
+            {
+                "id": "c8383dc8-1eca-fd7b-ace6-96eb361d9263",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3886005685-20160803113210_v43.25",
+                        "route_id": "88601-20160803113210_v43.25",
+                        "start_time": "22:50:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "59BF"
+                    },
+                    "position": {
+                        "latitude": -36.694617,
+                        "longitude": 174.750617,
+                        "bearing": "130"
+                    },
+                    "timestamp": 1471863090
+                }
+            },
+            {
+                "id": "f8d8e2fc-11a4-46bf-0f61-98f5724be261",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "4974028701-20160803113210_v43.25",
+                        "route_id": "97404-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "523C"
+                    },
+                    "position": {
+                        "latitude": -36.840767,
+                        "longitude": 174.7449,
+                        "bearing": "304"
+                    },
+                    "timestamp": 1471863083.527
+                }
+            },
+            {
+                "id": "b393e320-2baa-5026-0220-a0c9d2889124",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14392045243-20160803113210_v43.25",
+                        "route_id": "39202-20160803113210_v43.25",
+                        "start_time": "22:10:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F7D"
+                    },
+                    "position": {
+                        "latitude": -36.9203,
+                        "longitude": 174.812267,
+                        "bearing": "261"
+                    },
+                    "timestamp": 1471863074.614
+                }
+            },
+            {
+                "id": "f34f5997-7dd8-7600-3fde-574541a962d4",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14030042259-20160803113210_v43.25",
+                        "route_id": "03001-20160803113210_v43.25",
+                        "start_time": "22:25:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36F0"
+                    },
+                    "position": {
+                        "latitude": -36.84287167,
+                        "longitude": 174.766315
+                    },
+                    "timestamp": 1471862891
+                }
+            },
+            {
+                "id": "4a3493f4-1a9e-174e-a7d7-7896aae25cd0",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14797028793-20160803113210_v43.25",
+                        "route_id": "79702-20160803113210_v43.25",
+                        "start_time": "22:34:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36B9"
+                    },
+                    "position": {
+                        "latitude": -36.85788738,
+                        "longitude": 174.76082333
+                    },
+                    "timestamp": 1471863081
+                }
+            },
+            {
+                "id": "7a88b6a5-d566-e620-4641-bdd20bb5c5aa",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14798046903-20160803113210_v43.25",
+                        "route_id": "79801-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36D2"
+                    },
+                    "position": {
+                        "latitude": -36.84816593,
+                        "longitude": 174.75648768
+                    },
+                    "timestamp": 1471863082
+                }
+            },
+            {
+                "id": "86b502e5-d95b-5c62-2013-afd42ffb7f38",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14595039929-20160803113210_v43.25",
+                        "route_id": "59501-20160803113210_v43.25",
+                        "start_time": "22:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "377C"
+                    },
+                    "position": {
+                        "latitude": -36.86146167,
+                        "longitude": 174.76361167
+                    },
+                    "timestamp": 1471862807
+                }
+            },
+            {
+                "id": "7c316fcf-d2ed-d070-6192-64c665776108",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14255047742-20160803113210_v43.25",
+                        "route_id": "25502-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37DC"
+                    },
+                    "position": {
+                        "latitude": -36.90865,
+                        "longitude": 174.73321
+                    },
+                    "timestamp": 1471863047
+                }
+            },
+            {
+                "id": "6ada2727-ee6f-3671-bd65-7f501abd8c6e",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14721047130-20160803113210_v43.25",
+                        "route_id": "72101-20160803113210_v43.25",
+                        "start_time": "21:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36C4"
+                    },
+                    "position": {
+                        "latitude": -36.85103942,
+                        "longitude": 174.77563408
+                    },
+                    "timestamp": 1471863091
+                }
+            },
+            {
+                "id": "d848774b-7fce-7053-b3cc-e88b09f67cc4",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3100034405-20160803113210_v43.25",
+                        "route_id": "10004-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "582B"
+                    },
+                    "position": {
+                        "latitude": -36.62372667,
+                        "longitude": 174.66673833
+                    },
+                    "timestamp": 1471863070
+                }
+            },
+            {
+                "id": "ec34a639-fdb3-daf5-64e8-bad34a7d0252",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14299044684-20160803113210_v43.25",
+                        "route_id": "29902-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2FB6"
+                    },
+                    "position": {
+                        "latitude": -36.917767,
+                        "longitude": 174.758217,
+                        "bearing": "194"
+                    },
+                    "timestamp": 1471863059.81
+                }
+            },
+            {
+                "id": "536dea2f-f862-2bd4-4184-05b5f1f259d9",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5500011576-20160803113210_v43.25",
+                        "route_id": "50002-20160803113210_v43.25",
+                        "start_time": "22:25:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5EBA"
+                    },
+                    "position": {
+                        "latitude": -36.896733,
+                        "longitude": 174.8323,
+                        "bearing": "84"
+                    },
+                    "timestamp": 1471863067.066
+                }
+            },
+            {
+                "id": "f9a5eb61-a288-d9a3-fb93-9a8f3b0cc122",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13049037037-20160803113210_v43.25",
+                        "route_id": "04901-20160803113210_v43.25",
+                        "start_time": "22:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37C1"
+                    },
+                    "position": {
+                        "latitude": -36.8497,
+                        "longitude": 174.65025,
+                        "bearing": "35"
+                    },
+                    "timestamp": 1471863090.21
+                }
+            },
+            {
+                "id": "62178e1a-089b-d899-584e-a8e1c75af460",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14277037945-20160803113210_v43.25",
+                        "route_id": "27702-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3AA7"
+                    },
+                    "position": {
+                        "latitude": -36.927783,
+                        "longitude": 174.7488,
+                        "bearing": "225"
+                    },
+                    "timestamp": 1471863074
+                }
+            },
+            {
+                "id": "6a556d29-d4e6-2126-2566-5b345a1145cf",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15354038496-20160803113210_v43.25",
+                        "route_id": "35404-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2C89"
+                    },
+                    "position": {
+                        "latitude": -36.94229833,
+                        "longitude": 174.84384833
+                    },
+                    "timestamp": 1471862858
+                }
+            },
+            {
+                "id": "e0acb988-9f7d-5030-fe0f-46225547578d",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5550011275-20160803113210_v43.25",
+                        "route_id": "55001-20160803113210_v43.25",
+                        "start_time": "22:25:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5EC5"
+                    },
+                    "position": {
+                        "latitude": -36.901267,
+                        "longitude": 174.857033,
+                        "bearing": "304"
+                    },
+                    "timestamp": 1471863075.963
+                }
+            },
+            {
+                "id": "3eba5f9e-de5e-d825-2a1d-661ebd44d605",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5550011274-20160803113210_v43.25",
+                        "route_id": "55001-20160803113210_v43.25",
+                        "start_time": "21:55:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5EB0"
+                    },
+                    "position": {
+                        "latitude": -36.845517,
+                        "longitude": 174.770767,
+                        "bearing": "345"
+                    },
+                    "timestamp": 1471863071.756
+                }
+            },
+            {
+                "id": "619a3206-721b-9908-0f90-4dcbb5208811",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14721047131-20160803113210_v43.25",
+                        "route_id": "72101-20160803113210_v43.25",
+                        "start_time": "22:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37E3"
+                    },
+                    "position": {
+                        "latitude": -36.87068668,
+                        "longitude": 174.77726133
+                    },
+                    "timestamp": 1471862919
+                }
+            },
+            {
+                "id": "6f54eb98-2b0a-8058-3c1e-2b4f2d2c9977",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14731045641-20160803113210_v43.25",
+                        "route_id": "73102-20160803113210_v43.25",
+                        "start_time": "22:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36C6"
+                    },
+                    "position": {
+                        "latitude": -36.84805,
+                        "longitude": 174.753767,
+                        "bearing": "89"
+                    },
+                    "timestamp": 1471863082.786
+                }
+            },
+            {
+                "id": "06a11f5f-55dd-8aa6-42dd-f8a699b86b72",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15348038456-20160803113210_v43.25",
+                        "route_id": "34801-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37CA"
+                    },
+                    "position": {
+                        "latitude": -36.960567,
+                        "longitude": 174.7938,
+                        "bearing": "46"
+                    },
+                    "timestamp": 1471863065.973
+                }
+            },
+            {
+                "id": "6c6b8a0f-40c6-6d5e-b413-1eb4b4c0a4b7",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14731045643-20160803113210_v43.25",
+                        "route_id": "73102-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37E1"
+                    },
+                    "position": {
+                        "latitude": -36.891083,
+                        "longitude": 174.765583,
+                        "bearing": "291"
+                    },
+                    "timestamp": 1471863074.186
+                }
+            },
+            {
+                "id": "ddebc6e9-fe40-fef4-7421-34c7451d9ea2",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15334038343-20160803113210_v43.25",
+                        "route_id": "33403-20160803113210_v43.25",
+                        "start_time": "22:10:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37FB"
+                    },
+                    "position": {
+                        "latitude": -36.871633,
+                        "longitude": 174.776983,
+                        "bearing": "12"
+                    },
+                    "timestamp": 1471863082.504
+                }
+            },
+            {
+                "id": "e7774b39-9db2-ef22-c368-d65257b646aa",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14797028861-20160803113210_v43.25",
+                        "route_id": "79702-20160803113210_v43.25",
+                        "start_time": "22:49:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36B3"
+                    },
+                    "position": {
+                        "latitude": -36.846133,
+                        "longitude": 174.75655,
+                        "bearing": "104"
+                    },
+                    "timestamp": 1471863082.377
+                }
+            },
+            {
+                "id": "9504b30a-db47-62b3-c6c4-437f111aff60",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13221043621-20160803113210_v43.25",
+                        "route_id": "22102-20160803113210_v43.25",
+                        "start_time": "22:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37BF"
+                    },
+                    "position": {
+                        "latitude": -36.86115,
+                        "longitude": 174.762,
+                        "bearing": "194"
+                    },
+                    "timestamp": 1471863085.635
+                }
+            },
+            {
+                "id": "0730b984-0fcb-6ad0-e18c-724caf3fbb73",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14625040102-20160803113210_v43.25",
+                        "route_id": "62502-20160803113210_v43.25",
+                        "start_time": "23:05:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36B1"
+                    },
+                    "position": {
+                        "latitude": -36.84595,
+                        "longitude": 174.767633
+                    },
+                    "timestamp": 1471862939
+                }
+            },
+            {
+                "id": "9dfd41cf-26fa-7aa3-8fa5-c0dec6cdaaa2",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14635042785-20160803113210_v43.25",
+                        "route_id": "63502-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36F6"
+                    },
+                    "position": {
+                        "latitude": -36.860483,
+                        "longitude": 174.782767,
+                        "bearing": "192"
+                    },
+                    "timestamp": 1471863085.563
+                }
+            },
+            {
+                "id": "55adbeb3-492d-0689-45f0-9c3aa5f23f30",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14721047133-20160803113210_v43.25",
+                        "route_id": "72101-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36C3"
+                    },
+                    "position": {
+                        "latitude": -36.8816,
+                        "longitude": 174.712033,
+                        "bearing": "138"
+                    },
+                    "timestamp": 1471863085.385
+                }
+            },
+            {
+                "id": "3a456626-7fe5-ff20-e31d-350ebeba9324",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3100034396-20160803113210_v43.25",
+                        "route_id": "10004-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "586F"
+                    },
+                    "position": {
+                        "latitude": -36.828833,
+                        "longitude": 174.74675,
+                        "bearing": "25"
+                    },
+                    "timestamp": 1471863062.525
+                }
+            },
+            {
+                "id": "0c884516-1caf-b647-6d99-eef9b2875be1",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13136037562-20160803113210_v43.25",
+                        "route_id": "13601-20160803113210_v43.25",
+                        "start_time": "22:05:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2E90"
+                    },
+                    "position": {
+                        "latitude": -36.86615,
+                        "longitude": 174.730933,
+                        "bearing": "48"
+                    },
+                    "timestamp": 1471863074.104
+                }
+            },
+            {
+                "id": "af2d9b26-1c45-401c-c4a8-858f24e22c45",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "7380010546-20160803113210_v43.25",
+                        "route_id": "38006-20160803113210_v43.25",
+                        "start_time": "22:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "79A6"
+                    },
+                    "position": {
+                        "latitude": -36.99264667,
+                        "longitude": 174.88378893
+                    },
+                    "timestamp": 1471863092
+                }
+            },
+            {
+                "id": "0f0c2d28-14aa-e353-bac6-7495f69f9289",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12879045986-20160803113210_v43.25",
+                        "route_id": "87901-20160803113210_v43.25",
+                        "start_time": "21:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "372B"
+                    },
+                    "position": {
+                        "latitude": -36.85245,
+                        "longitude": 174.765655
+                    },
+                    "timestamp": 1471863078
+                }
+            },
+            {
+                "id": "dd2d84c9-739b-8c11-224f-04531169a727",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14799042542-20160803113210_v43.25",
+                        "route_id": "79902-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36CB"
+                    },
+                    "position": {
+                        "latitude": -36.8583,
+                        "longitude": 174.756067,
+                        "bearing": "245"
+                    },
+                    "timestamp": 1471863088.221
+                }
+            },
+            {
+                "id": "0cad7c40-3e90-6dfd-1a8c-01b93936726a",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "18025000095-20160803113210_v43.25",
+                        "route_id": "00202-20160803113210_v43.25",
+                        "start_time": "22:55:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "7D9B"
+                    },
+                    "position": {
+                        "latitude": -36.78030167,
+                        "longitude": 174.99249167
+                    },
+                    "timestamp": 1471862862
+                }
+            },
+            {
+                "id": "5b92b778-d740-fe1d-76c7-15944e89d47b",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15348038408-20160803113210_v43.25",
+                        "route_id": "34802-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "29D0"
+                    },
+                    "position": {
+                        "latitude": -36.955383,
+                        "longitude": 174.785083,
+                        "bearing": "84"
+                    },
+                    "timestamp": 1471863088.655
+                }
+            },
+            {
+                "id": "149ed6e5-3587-d78e-4be5-1185e91c0348",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14797028835-20160803113210_v43.25",
+                        "route_id": "79702-20160803113210_v43.25",
+                        "start_time": "22:11:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36F1"
+                    },
+                    "position": {
+                        "latitude": -36.84057857,
+                        "longitude": 174.75479038
+                    },
+                    "timestamp": 1471863059
+                }
+            },
+            {
+                "id": "c1375a34-6be3-79a4-7766-10562be0d64a",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15471039165-20160803113210_v43.25",
+                        "route_id": "47105-20160803113210_v43.25",
+                        "start_time": "22:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37CF"
+                    },
+                    "position": {
+                        "latitude": -36.948633,
+                        "longitude": 174.8457,
+                        "bearing": "15"
+                    },
+                    "timestamp": 1471863086.778
+                }
+            },
+            {
+                "id": "29594160-0d38-3163-8e98-ab842ef1c478",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1981016535-20160803113210_v43.25",
+                        "route_id": "98102-20160803113210_v43.25",
+                        "start_time": "22:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2CA1"
+                    },
+                    "position": {
+                        "latitude": -36.54264667,
+                        "longitude": 174.70463
+                    },
+                    "timestamp": 1471863091
+                }
+            },
+            {
+                "id": "78e8a0bf-6594-6a3b-d914-9b727c6e4ba7",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14799042541-20160803113210_v43.25",
+                        "route_id": "79902-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36CA"
+                    },
+                    "position": {
+                        "latitude": -36.846817,
+                        "longitude": 174.765917,
+                        "bearing": "12"
+                    },
+                    "timestamp": 1471863057.041
+                }
+            },
+            {
+                "id": "42a76cea-eb68-da04-039e-264a21123746",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3880005467-20160803113210_v43.25",
+                        "route_id": "88001-20160803113210_v43.25",
+                        "start_time": "22:05:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "578B"
+                    },
+                    "position": {
+                        "latitude": -36.732767,
+                        "longitude": 174.701633,
+                        "bearing": "0"
+                    },
+                    "timestamp": 1471863074.5
+                }
+            },
+            {
+                "id": "563eab19-5b88-4a91-3fa1-ba49e97b1a64",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14249045497-20160803113210_v43.25",
+                        "route_id": "24902-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F6D"
+                    },
+                    "position": {
+                        "latitude": -36.878217,
+                        "longitude": 174.74075,
+                        "bearing": "192"
+                    },
+                    "timestamp": 1471863083.663
+                }
+            },
+            {
+                "id": "52a5f993-0c24-4c79-f304-e53dbc1eb8ae",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "7380010547-20160803113210_v43.25",
+                        "route_id": "38006-20160803113210_v43.25",
+                        "start_time": "22:50:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "79A7"
+                    },
+                    "position": {
+                        "latitude": -36.99938313,
+                        "longitude": 174.78963506
+                    },
+                    "timestamp": 1471863063
+                }
+            },
+            {
+                "id": "daff0ee1-a6b6-056c-c559-e11c691ecbe8",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14277037946-20160803113210_v43.25",
+                        "route_id": "27702-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3AA6"
+                    },
+                    "position": {
+                        "latitude": -36.85285,
+                        "longitude": 174.769417,
+                        "bearing": "215"
+                    },
+                    "timestamp": 1471863064.248
+                }
+            },
+            {
+                "id": "fddc130e-3d69-5d6f-8446-5e49727c81c3",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3100033877-20160803113210_v43.25",
+                        "route_id": "10001-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "59C3"
+                    },
+                    "position": {
+                        "latitude": -36.843467,
+                        "longitude": 174.765617,
+                        "bearing": "0"
+                    },
+                    "timestamp": 1471863077.5
+                }
+            },
+            {
+                "id": "10248b90-5612-ab98-e848-11e8e4c4c080",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14267044381-20160803113210_v43.25",
+                        "route_id": "26701-20160803113210_v43.25",
+                        "start_time": "22:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2FBF"
+                    },
+                    "position": {
+                        "latitude": -36.851755,
+                        "longitude": 174.764185
+                    },
+                    "timestamp": 1471862913
+                }
+            },
+            {
+                "id": "b3610a6e-95da-8afa-72fc-7441be275a81",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1033047427-20160803113210_v43.25",
+                        "route_id": "15302-20160803113210_v43.25",
+                        "start_time": "22:05:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37DD"
+                    },
+                    "position": {
+                        "latitude": -36.909317,
+                        "longitude": 174.6353,
+                        "bearing": "268"
+                    },
+                    "timestamp": 1471863089.614
+                }
+            },
+            {
+                "id": "4d4aba54-c8ef-864c-a32a-00d7fc44b203",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14605043854-20160803113210_v43.25",
+                        "route_id": "60501-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36EA"
+                    },
+                    "position": {
+                        "latitude": -36.851117,
+                        "longitude": 174.764283,
+                        "bearing": "0"
+                    },
+                    "timestamp": 1471863079.5
+                }
+            },
+            {
+                "id": "4f4d5948-5b04-f481-12d1-7465e8b03774",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14267044454-20160803113210_v43.25",
+                        "route_id": "26702-20160803113210_v43.25",
+                        "start_time": "22:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F56"
+                    },
+                    "position": {
+                        "latitude": -36.927967,
+                        "longitude": 174.727467,
+                        "bearing": "304"
+                    },
+                    "timestamp": 1471863080.809
+                }
+            },
+            {
+                "id": "7965dbb4-ec72-6b16-7fe8-41b4cce3a1f5",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14305044844-20160803113210_v43.25",
+                        "route_id": "30501-20160803113210_v43.25",
+                        "start_time": "22:05:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37FA"
+                    },
+                    "position": {
+                        "latitude": -36.863783,
+                        "longitude": 174.76095,
+                        "bearing": "289"
+                    },
+                    "timestamp": 1471863067.152
+                }
+            },
+            {
+                "id": "99f13e5d-d2e0-b7a9-d79c-fe404afe4289",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15471039168-20160803113210_v43.25",
+                        "route_id": "47104-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "380D"
+                    },
+                    "position": {
+                        "latitude": -36.8971,
+                        "longitude": 174.802067,
+                        "bearing": "138"
+                    },
+                    "timestamp": 1471863082
+                }
+            },
+            {
+                "id": "cd95307f-31d7-6d4c-2800-6a2b993b695b",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12858046368-20160803113210_v43.25",
+                        "route_id": "85801-20160803113210_v43.25",
+                        "start_time": "22:38:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "30B6"
+                    },
+                    "position": {
+                        "latitude": -36.74183237,
+                        "longitude": 174.75725199
+                    },
+                    "timestamp": 1471863092
+                }
+            },
+            {
+                "id": "0be93b12-9edb-018a-8aab-66633f34b6f7",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5500011575-20160803113210_v43.25",
+                        "route_id": "50002-20160803113210_v43.25",
+                        "start_time": "21:55:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5EC0"
+                    },
+                    "position": {
+                        "latitude": -36.9584077,
+                        "longitude": 174.91387823
+                    },
+                    "timestamp": 1471863089
+                }
+            },
+            {
+                "id": "fc451248-43a3-772b-c376-19171939c3ff",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14731045642-20160803113210_v43.25",
+                        "route_id": "73102-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36C8"
+                    },
+                    "position": {
+                        "latitude": -36.865967,
+                        "longitude": 174.70685,
+                        "bearing": "327"
+                    },
+                    "timestamp": 1471863083.549
+                }
+            },
+            {
+                "id": "5bc9c630-7a69-6c60-4b20-ffd287b4ef2e",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14731045644-20160803113210_v43.25",
+                        "route_id": "73102-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37E2"
+                    },
+                    "position": {
+                        "latitude": -36.852167,
+                        "longitude": 174.778383,
+                        "bearing": "140"
+                    },
+                    "timestamp": 1471863082.845
+                }
+            },
+            {
+                "id": "910170be-4096-2dfb-f76e-eee57ae91036",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12858046422-20160803113210_v43.25",
+                        "route_id": "85802-20160803113210_v43.25",
+                        "start_time": "22:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "30AD"
+                    },
+                    "position": {
+                        "latitude": -36.79385,
+                        "longitude": 174.772483,
+                        "bearing": "325"
+                    },
+                    "timestamp": 1471863077.191
+                }
+            },
+            {
+                "id": "851728bc-82d0-72f5-7e55-8cf76a1fa437",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15487039374-20160803113210_v43.25",
+                        "route_id": "48702-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37FC"
+                    },
+                    "position": {
+                        "latitude": -36.956033,
+                        "longitude": 174.851017,
+                        "bearing": "128"
+                    },
+                    "timestamp": 1471863087.184
+                }
+            },
+            {
+                "id": "cd9d9863-c829-dcbb-e5d5-650f681bade6",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14312045049-20160803113210_v43.25",
+                        "route_id": "31202-20160803113210_v43.25",
+                        "start_time": "22:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2C52"
+                    },
+                    "position": {
+                        "latitude": -36.900583,
+                        "longitude": 174.77345,
+                        "bearing": "166"
+                    },
+                    "timestamp": 1471863079.996
+                }
+            },
+            {
+                "id": "144a6867-56ec-408b-ce3c-f70d81113fa4",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3905041637-20160803113210_v43.25",
+                        "route_id": "90504-20160803113210_v43.25",
+                        "start_time": "22:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "575D"
+                    },
+                    "position": {
+                        "latitude": -36.76398851,
+                        "longitude": 174.73732296
+                    },
+                    "timestamp": 1471863088
+                }
+            },
+            {
+                "id": "6df2eca6-2b93-faee-c1bd-2a38522ca58a",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12875045925-20160803113210_v43.25",
+                        "route_id": "87502-20160803113210_v43.25",
+                        "start_time": "21:50:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "372D"
+                    },
+                    "position": {
+                        "latitude": -36.70937167,
+                        "longitude": 174.72757833
+                    },
+                    "timestamp": 1471863031
+                }
+            },
+            {
+                "id": "89de1724-10f2-6c77-2c60-dc2c93d1a4bf",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1045025566-20160803113210_v43.25",
+                        "route_id": "19501-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5BA6"
+                    },
+                    "position": {
+                        "latitude": -36.857617,
+                        "longitude": 174.758083,
+                        "bearing": "69"
+                    },
+                    "timestamp": 1471863088.472
+                }
+            },
+            {
+                "id": "0d7beef0-923b-2ec2-4339-3e83f9de13a3",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1045016025-20160803113210_v43.25",
+                        "route_id": "19502-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5BB8"
+                    },
+                    "position": {
+                        "latitude": -36.9305,
+                        "longitude": 174.679833,
+                        "bearing": "253"
+                    },
+                    "timestamp": 1471863091.594
+                }
+            },
+            {
+                "id": "b12caec6-1023-6266-92dd-c7e268869efd",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14756040601-20160803113210_v43.25",
+                        "route_id": "75601-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36F2"
+                    },
+                    "position": {
+                        "latitude": -36.8528,
+                        "longitude": 174.8424,
+                        "bearing": "279"
+                    },
+                    "timestamp": 1471863081.13
+                }
+            },
+            {
+                "id": "c6aa0528-911a-7cc4-7f0d-8fe0712c397f",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14635042740-20160803113210_v43.25",
+                        "route_id": "63501-20160803113210_v43.25",
+                        "start_time": "22:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36F7"
+                    },
+                    "position": {
+                        "latitude": -36.877733,
+                        "longitude": 174.828783,
+                        "bearing": "256"
+                    },
+                    "timestamp": 1471863086.664
+                }
+            },
+            {
+                "id": "348b4346-f1e1-71dd-795a-e2b13a3935d4",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14799042543-20160803113210_v43.25",
+                        "route_id": "79902-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36D1"
+                    },
+                    "position": {
+                        "latitude": -36.865867,
+                        "longitude": 174.778833,
+                        "bearing": "192"
+                    },
+                    "timestamp": 1471863078.244
+                }
+            },
+            {
+                "id": "949f2308-a779-228f-f60f-1f929b6978bd",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15454038769-20160803113210_v43.25",
+                        "route_id": "45402-20160803113210_v43.25",
+                        "start_time": "22:25:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37FF"
+                    },
+                    "position": {
+                        "latitude": -37.0266,
+                        "longitude": 174.896467,
+                        "bearing": "335"
+                    },
+                    "timestamp": 1471863083.055
+                }
+            },
+            {
+                "id": "1a9dc100-32e5-3d4c-cd3a-2a12994acd8b",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15487039430-20160803113210_v43.25",
+                        "route_id": "48701-20160803113210_v43.25",
+                        "start_time": "22:10:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37F9"
+                    },
+                    "position": {
+                        "latitude": -36.899033,
+                        "longitude": 174.803683,
+                        "bearing": "317"
+                    },
+                    "timestamp": 1471863086.774
+                }
+            },
+            {
+                "id": "739c982b-5f66-95cb-c18a-764b71b3d687",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1035047519-20160803113210_v43.25",
+                        "route_id": "17202-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2E7D"
+                    },
+                    "position": {
+                        "latitude": -36.910445,
+                        "longitude": 174.65285167
+                    },
+                    "timestamp": 1471863040
+                }
+            },
+            {
+                "id": "2a7f4972-c123-7375-2e5d-b825e37fbbc9",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14797028754-20160803113210_v43.25",
+                        "route_id": "79702-20160803113210_v43.25",
+                        "start_time": "22:19:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36B5"
+                    },
+                    "position": {
+                        "latitude": -36.852367,
+                        "longitude": 174.763883,
+                        "bearing": "20"
+                    },
+                    "timestamp": 1471863086.689
+                }
+            },
+            {
+                "id": "433d4cac-e17c-4162-643e-ede19dd5debe",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15455038912-20160803113210_v43.25",
+                        "route_id": "45501-20160803113210_v43.25",
+                        "start_time": "22:50:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37F3"
+                    },
+                    "position": {
+                        "latitude": -37.049533,
+                        "longitude": 174.85975,
+                        "bearing": "186"
+                    },
+                    "timestamp": 1471863080.104
+                }
+            },
+            {
+                "id": "c5762464-51e3-01e0-286d-92ffd335709f",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14721047132-20160803113210_v43.25",
+                        "route_id": "72101-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37E4"
+                    },
+                    "position": {
+                        "latitude": -36.87728189,
+                        "longitude": 174.7572468
+                    },
+                    "timestamp": 1471863080
+                }
+            },
+            {
+                "id": "fd863afa-1f49-8983-1062-e8df2487538e",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13136037585-20160803113210_v43.25",
+                        "route_id": "13602-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2E82"
+                    },
+                    "position": {
+                        "latitude": -36.882567,
+                        "longitude": 174.7015,
+                        "bearing": "192"
+                    },
+                    "timestamp": 1471863083.554
+                }
+            },
+            {
+                "id": "01523ed7-2976-f27a-ba6a-f5a262857798",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15334038321-20160803113210_v43.25",
+                        "route_id": "33404-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37CB"
+                    },
+                    "position": {
+                        "latitude": -36.849383,
+                        "longitude": 174.7734,
+                        "bearing": "222"
+                    },
+                    "timestamp": 1471863045.476
+                }
+            },
+            {
+                "id": "a0125f46-9a05-ee65-219f-0d0b078a24ee",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14721047134-20160803113210_v43.25",
+                        "route_id": "72101-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36C2"
+                    },
+                    "position": {
+                        "latitude": -36.847417,
+                        "longitude": 174.744467,
+                        "bearing": "276"
+                    },
+                    "timestamp": 1471863066.512
+                }
+            },
+            {
+                "id": "5b71fd71-3b68-a741-32e6-0c40193a07cd",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14233045363-20160803113210_v43.25",
+                        "route_id": "23302-20160803113210_v43.25",
+                        "start_time": "22:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F82"
+                    },
+                    "position": {
+                        "latitude": -36.90925,
+                        "longitude": 174.68375,
+                        "bearing": "0"
+                    },
+                    "timestamp": 1471862833.5
+                }
+            },
+            {
+                "id": "62a59525-4fae-1522-a9ca-cf999f55768f",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5550011390-20160803113210_v43.25",
+                        "route_id": "55006-20160803113210_v43.25",
+                        "start_time": "22:10:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5EBB"
+                    },
+                    "position": {
+                        "latitude": -36.90545,
+                        "longitude": 174.890567,
+                        "bearing": "58"
+                    },
+                    "timestamp": 1471863070.521
+                }
+            },
+            {
+                "id": "b888ff49-f032-5649-412f-a5b6b273d790",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13223043415-20160803113210_v43.25",
+                        "route_id": "22302-20160803113210_v43.25",
+                        "start_time": "22:10:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F63"
+                    },
+                    "position": {
+                        "latitude": -36.905533,
+                        "longitude": 174.686033,
+                        "bearing": "225"
+                    },
+                    "timestamp": 1471863072.35
+                }
+            },
+            {
+                "id": "91947bdf-b118-b232-2c58-ea1dfa822152",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14277038070-20160803113210_v43.25",
+                        "route_id": "27701-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "3A99"
+                    },
+                    "position": {
+                        "latitude": -36.9229,
+                        "longitude": 174.74735,
+                        "bearing": "353"
+                    },
+                    "timestamp": 1471863084
+                }
+            },
+            {
+                "id": "a5954884-6396-ad24-0eb9-72c7f59b6111",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14258044098-20160803113210_v43.25",
+                        "route_id": "25801-20160803113210_v43.25",
+                        "start_time": "22:42:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F72"
+                    },
+                    "position": {
+                        "latitude": -36.904633,
+                        "longitude": 174.741733,
+                        "bearing": "12"
+                    },
+                    "timestamp": 1471863068.898
+                }
+            },
+            {
+                "id": "a1f81457-6285-0ee9-2b3a-1011b5ce65d8",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14392045192-20160803113210_v43.25",
+                        "route_id": "39201-20160803113210_v43.25",
+                        "start_time": "22:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "370F"
+                    },
+                    "position": {
+                        "latitude": -36.857967,
+                        "longitude": 174.761367,
+                        "bearing": "268"
+                    },
+                    "timestamp": 1471863082.658
+                }
+            },
+            {
+                "id": "171854b4-a6f3-6262-0a77-969cb459b4e5",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "7380020956-20160803113210_v43.25",
+                        "route_id": "38005-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "79D1"
+                    },
+                    "position": {
+                        "latitude": -36.98104833,
+                        "longitude": 174.781815
+                    },
+                    "timestamp": 1471863051
+                }
+            },
+            {
+                "id": "81d3755c-86d9-dc49-2270-83b8687cf7bd",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14798046901-20160803113210_v43.25",
+                        "route_id": "79801-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36CD"
+                    },
+                    "position": {
+                        "latitude": -36.84553165,
+                        "longitude": 174.77024469
+                    },
+                    "timestamp": 1471863087
+                }
+            },
+            {
+                "id": "059a0199-7cc6-f177-e1e1-4b0c7b26f67e",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15512039698-20160803113210_v43.25",
+                        "route_id": "51201-20160803113210_v43.25",
+                        "start_time": "22:15:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37C8"
+                    },
+                    "position": {
+                        "latitude": -36.874433,
+                        "longitude": 174.77705,
+                        "bearing": "355"
+                    },
+                    "timestamp": 1471863084.338
+                }
+            },
+            {
+                "id": "6dadb6d1-3a2b-e2e5-198c-0eddbe55b870",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15497039553-20160803113210_v43.25",
+                        "route_id": "49702-20160803113210_v43.25",
+                        "start_time": "21:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37F1"
+                    },
+                    "position": {
+                        "latitude": -36.9846,
+                        "longitude": 174.90035,
+                        "bearing": "230"
+                    },
+                    "timestamp": 1471863072.888
+                }
+            },
+            {
+                "id": "78c415b0-e1fc-4d9f-0458-db9e85ccf7de",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "1982035852-20160803113210_v43.25",
+                        "route_id": "98202-20160803113210_v43.25",
+                        "start_time": "22:20:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2C58"
+                    },
+                    "position": {
+                        "latitude": -36.62423553,
+                        "longitude": 174.66769576
+                    },
+                    "timestamp": 1471863080
+                }
+            },
+            {
+                "id": "4a40e26b-07f3-8386-bdb3-f4f626e23108",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14020043006-20160803113210_v43.25",
+                        "route_id": "02002-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "37DB"
+                    },
+                    "position": {
+                        "latitude": -36.85298167,
+                        "longitude": 174.71896667
+                    },
+                    "timestamp": 1471863060
+                }
+            },
+            {
+                "id": "ff89df7f-ab15-d584-9980-a0bffd6b6cea",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14249045466-20160803113210_v43.25",
+                        "route_id": "24901-20160803113210_v43.25",
+                        "start_time": "22:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F50"
+                    },
+                    "position": {
+                        "latitude": -36.901183,
+                        "longitude": 174.730683,
+                        "bearing": "28"
+                    },
+                    "timestamp": 1471863090.649
+                }
+            },
+            {
+                "id": "4f83f6d1-fc3c-afe4-8a36-21888768c7c6",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "3922046176-20160803113210_v43.25",
+                        "route_id": "92202-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "57E0"
+                    },
+                    "position": {
+                        "latitude": -36.849767,
+                        "longitude": 174.760333,
+                        "bearing": "289"
+                    },
+                    "timestamp": 1471863072.056
+                }
+            },
+            {
+                "id": "6e3d2c9a-bb18-9b9e-4782-29ad1531cde1",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "12891041505-20160803113210_v43.25",
+                        "route_id": "89102-20160803113210_v43.25",
+                        "start_time": "22:10:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "30CD"
+                    },
+                    "position": {
+                        "latitude": -36.745385,
+                        "longitude": 174.72200167
+                    },
+                    "timestamp": 1471862949
+                }
+            },
+            {
+                "id": "f7a6fbea-a931-5b4c-fa60-138b880912f2",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14716040396-20160803113210_v43.25",
+                        "route_id": "71601-20160803113210_v43.25",
+                        "start_time": "22:00:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36BD"
+                    },
+                    "position": {
+                        "latitude": -36.8452,
+                        "longitude": 174.767783,
+                        "bearing": "12"
+                    },
+                    "timestamp": 1471863080
+                }
+            },
+            {
+                "id": "7a18080d-d026-0a0a-749c-837706894458",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5500026682-20160803113210_v43.25",
+                        "route_id": "50001-20160803113210_v43.25",
+                        "start_time": "22:05:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5EC3"
+                    },
+                    "position": {
+                        "latitude": -36.87765,
+                        "longitude": 174.779967,
+                        "bearing": "314"
+                    },
+                    "timestamp": 1471863073.254
+                }
+            },
+            {
+                "id": "ddb8fcc5-46e0-c029-769f-dd24636c79e5",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "8300033765-20160803113210_v43.25",
+                        "route_id": "30005-20160803113210_v43.25",
+                        "start_time": "22:45:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "621F"
+                    },
+                    "position": {
+                        "latitude": -37.00633138,
+                        "longitude": 174.7906595
+                    },
+                    "timestamp": 1471863090
+                }
+            },
+            {
+                "id": "70cd9188-22c4-2216-ea58-11c70b0de1ba",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "15472039175-20160803113210_v43.25",
+                        "route_id": "47202-20160803113210_v43.25",
+                        "start_time": "21:30:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "29F8"
+                    },
+                    "position": {
+                        "latitude": -37.066317,
+                        "longitude": 174.955083,
+                        "bearing": "0"
+                    },
+                    "timestamp": 1471863073
+                }
+            },
+            {
+                "id": "22614f92-14ae-1c48-dee9-5d2df1125694",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "5500011596-20160803113210_v43.25",
+                        "route_id": "50002-20160803113210_v43.25",
+                        "start_time": "22:55:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "5E53"
+                    },
+                    "position": {
+                        "latitude": -36.845383,
+                        "longitude": 174.769733
+                    },
+                    "timestamp": 1471863035
+                }
+            },
+            {
+                "id": "79589ab4-9d49-be83-4882-46da3ad8b8d8",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "4955028309-20160803113210_v43.25",
+                        "route_id": "95501-20160803113210_v43.25",
+                        "start_time": "22:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "522A"
+                    },
+                    "position": {
+                        "latitude": -36.781417,
+                        "longitude": 174.721367,
+                        "bearing": "207"
+                    },
+                    "timestamp": 1471863082.646
+                }
+            },
+            {
+                "id": "a17b3ba2-12d1-1d26-651f-a634cc5e3d84",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "13049037074-20160803113210_v43.25",
+                        "route_id": "04902-20160803113210_v43.25",
+                        "start_time": "22:35:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "377B"
+                    },
+                    "position": {
+                        "latitude": -36.870233,
+                        "longitude": 174.71125,
+                        "bearing": "240"
+                    },
+                    "timestamp": 1471863086.74
+                }
+            },
+            {
+                "id": "6351591b-1bef-ebbe-9a56-63e11e9f2e7d",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14797028773-20160803113210_v43.25",
+                        "route_id": "79702-20160803113210_v43.25",
+                        "start_time": "22:26:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "36B4"
+                    },
+                    "position": {
+                        "latitude": -36.857967,
+                        "longitude": 174.761367,
+                        "bearing": "17"
+                    },
+                    "timestamp": 1471863084.244
+                }
+            },
+            {
+                "id": "8576d7c7-ed8b-c377-63f8-ed07583ca9c2",
+                "is_deleted": false,
+                "vehicle": {
+                    "trip": {
+                        "trip_id": "14258044215-20160803113210_v43.25",
+                        "route_id": "25802-20160803113210_v43.25",
+                        "start_time": "22:40:00",
+                        "schedule_relationship": 0
+                    },
+                    "vehicle": {
+                        "id": "2F7F"
+                    },
+                    "position": {
+                        "latitude": -36.87225,
+                        "longitude": 174.752233,
+                        "bearing": "192"
+                    },
+                    "timestamp": 1471863077
+                }
+            }
+        ]
+    },
+    "error": null
+}
