@@ -18,7 +18,7 @@ mapsapi().then( function( maps ) {
   //use the google.maps object as you please 
 });
 
-var store = {data: [], markers: {}, posData: {}};
+window.store = {data: [], markers: {}, posData: {}};
 //var states = [false, false]
 var map;
 
