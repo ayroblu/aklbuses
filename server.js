@@ -1,5 +1,4 @@
 var app = require('./app');
-var http = require('http');
 var debug = require('debug')('temp:server');
 
 /**
@@ -20,7 +19,7 @@ var port = normalizePort(process.env.PORT || '3000');
  */
 
 var server = require('http').Server(app);
-var io = require('./lib/sockets').listen(http)
+var io = require('./lib/sockets').listen(server)
 console.log('port =', port);
 server.listen(port);
 server.on('error', onError);
