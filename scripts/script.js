@@ -4,6 +4,7 @@ import socketData from './socketdata'
 import mapsModule from 'google-maps-api'
 const mapsapi = mapsModule('AIzaSyBkSlPom4tp0ypqQpZela8ct4VIjh2OoN8');
 import markerHelper from './markerHelper'
+import moment from 'moment'
  
 var liveButton = qget('.liveButton')
 liveButton.onclick = function(){
@@ -38,6 +39,7 @@ function initMap() {
 var liveData = {
   showData(data){
     console.log('Showing data')
+    console.log('clock difference:', moment.unix(data.header.timestamp).fromNow())
 
     var positions = data.entity.map(e=>{
       var pos = e.vehicle.position
@@ -49,7 +51,7 @@ var liveData = {
       , vehicle_id: e.vehicle.vehicle.id
       , name: data.routes[routeId].route_short_name
       , longName: data.routes[routeId].route_long_name
-      , datetime: new Date(e.vehicle.timestamp*1000)
+      , datetime: moment.unix(e.vehicle.timestamp).from(moment.unix(data.header.timestamp))
       , startTime: e.vehicle.trip.start_time
       }
     })
@@ -57,9 +59,12 @@ var liveData = {
     this.updateMarkers(positions, map)
 
     // center page
-    var bounds = new google.maps.LatLngBounds();
-    Object.keys(store.markers).forEach(k=>bounds.extend(store.markers[k].getPosition()))
-    map.fitBounds(bounds);
+    if (!doneFirst){
+      var bounds = new google.maps.LatLngBounds();
+      Object.keys(store.markers).forEach(k=>bounds.extend(store.markers[k].getPosition()))
+      map.fitBounds(bounds)
+      doneFirst = true
+    }
   }
 , updateMarkers(data, map){
     //okay, here's what we got

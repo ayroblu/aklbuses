@@ -23,7 +23,10 @@
     "url": "https://github.com/ayroblu/at-realtime/issues"
   },
   "babel": {
-    "presets": ["es2015", "es2016"]
+    "presets": [
+      "es2015",
+      "es2016"
+    ]
   },
   "homepage": "https://github.com/ayroblu/at-realtime#readme",
   "dependencies": {
@@ -37,6 +40,7 @@
     "express": "^4.14.0",
     "jade": "^1.11.0",
     "knex": "^0.11.9",
+    "moment": "^2.14.1",
     "mongodb": "^2.2.8",
     "morgan": "^1.7.0",
     "mysql": "^2.11.1",

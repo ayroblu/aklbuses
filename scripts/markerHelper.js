@@ -67,7 +67,7 @@ module.exports = {
       <div class="popupData">
         <h2>${featureData.name}</h2>
         <p>${featureData.longName}</p>
-        <p>UTC: ${featureData.datetime.toISOString()}</p>
+        <p>Last updated: ${featureData.datetime}</p>
         <p>Started at: ${featureData.startTime}</p>
       </div>
     `
