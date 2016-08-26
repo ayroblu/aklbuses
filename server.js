@@ -1,4 +1,5 @@
 var app = require('./app');
+var http = require('http');
 var debug = require('debug')('temp:server');
 
 /**
