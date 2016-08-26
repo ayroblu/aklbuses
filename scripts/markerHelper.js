@@ -82,7 +82,7 @@ module.exports = {
 , animateMarker(marker, oldPos, newPos){
     // store a LatLng for each step of the animation
     var frames = [];
-    for (var percent = 0; percent < 1; percent += 0.01) {
+    for (var percent = 0; percent < 1; percent += 0.1) {
       var pos = {
         lat: oldPos.lat + percent * (newPos.lat - oldPos.lat)
       , lng: oldPos.lng + percent * (newPos.lng - oldPos.lng)
@@ -101,7 +101,7 @@ module.exports = {
     }
 
     // begin animation, send back to origin after completion
-    move(marker, frames, 0, 20, marker.position);
+    move(marker, frames, 0, 100, marker.position);
   }
 }
 

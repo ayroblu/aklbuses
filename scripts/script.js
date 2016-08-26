@@ -1,10 +1,20 @@
-import './main'
+//import './cube'
 import {qget, qgeta} from './helper'
 import socketData from './socketdata'
 import mapsModule from 'google-maps-api'
 const mapsapi = mapsModule('AIzaSyBkSlPom4tp0ypqQpZela8ct4VIjh2OoN8');
 import markerHelper from './markerHelper'
  
+var liveButton = qget('.liveButton')
+liveButton.onclick = function(){
+  var isLive = this.classList.toggle('live')
+  if (isLive){
+    socketData.startRefreshing(null)
+  } else {
+    socketData.stopRefreshing()
+  }
+}
+
 mapsapi().then( function( maps ) {
   initMap()
   //use the google.maps object as you please 
