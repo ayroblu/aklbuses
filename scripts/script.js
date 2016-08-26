@@ -22,10 +22,11 @@ mapsapi().then( function( maps ) {
 
 window.store = {data: [], markers: {}};
 var map;
+var doneFirst = false
 
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 14,
+    zoom: 12,
     center: {lat: -36.844784, lng: 174.758700},
   })
 
@@ -54,6 +55,11 @@ var liveData = {
     })
     store.data = positions
     this.updateMarkers(positions, map)
+
+    // center page
+    var bounds = new google.maps.LatLngBounds();
+    Object.keys(store.markers).forEach(k=>bounds.extend(store.markers[k].getPosition()))
+    map.fitBounds(bounds);
   }
 , updateMarkers(data, map){
     //okay, here's what we got
