@@ -21,6 +21,7 @@ var options = {
 , ca: fs.readFileSync('/etc/letsencrypt/live/aklbuses.nz/chain.pem')
 }
 var server = https.createServer(options, app);
+var io = require('./lib/sockets').listen(server)
 server.listen(443);
 
 

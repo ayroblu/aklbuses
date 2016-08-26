@@ -1,4 +1,4 @@
-var server = require('./app');
+var app = require('./app');
 var debug = require('debug')('temp:server');
 
 /**
@@ -18,6 +18,8 @@ var port = normalizePort(process.env.PORT || '3000');
  * Listen on provided port, on all network interfaces.
  */
 
+var server = require('http').Server(app);
+var io = require('./lib/sockets').listen(http)
 console.log('port =', port);
 server.listen(port);
 server.on('error', onError);

@@ -26,8 +26,6 @@ var api = require('./routes/api');
 
 // Running a server
 var app = express();
-var http = require('http').Server(app);
-var io = require('./lib/sockets').listen(http)
 
 var downloader = require('./lib/downloader').getVehicleLocations
 setInterval(downloader, 30000)
@@ -134,4 +132,4 @@ app.use(function(err, req, res, next) {
 
 
 //module.exports = app;
-module.exports = http;
+module.exports = app;
