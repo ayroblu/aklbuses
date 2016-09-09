@@ -40,8 +40,15 @@ var liveData = {
   showData(data){
     console.log('Showing data')
     console.log('clock difference:', moment.unix(data.header.timestamp).fromNow())
+    if (!data || !data.entity || !data.entity.length){
+      console.log('data is empty?', data)
+      return
+    }
 
     var positions = data.entity.map(e=>{
+      if (data.routes[routeId]){
+        console.error('route_short_name is missing, need to get new route from server')
+      }
       var pos = e.vehicle.position
       var ll = {lat: pos.latitude, lng: pos.longitude}
       var routeId = e.vehicle.trip.route_id
@@ -49,8 +56,8 @@ var liveData = {
         ll: ll
       , id: e.id
       , vehicle_id: e.vehicle.vehicle.id
-      , name: data.routes[routeId].route_short_name
-      , longName: data.routes[routeId].route_long_name
+      , name: data.routes[routeId] ? data.routes[routeId].route_short_name : 'Unknown'
+      , longName: data.routes[routeId] ? data.routes[routeId].route_long_name : 'Unknown'
       , datetime: moment.unix(e.vehicle.timestamp).from(moment.unix(data.header.timestamp))
       , startTime: e.vehicle.trip.start_time
       }

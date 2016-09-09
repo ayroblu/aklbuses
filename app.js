@@ -27,8 +27,10 @@ var api = require('./routes/api');
 // Running a server
 var app = express();
 
-var downloader = require('./lib/downloader').getVehicleLocations
-setInterval(downloader, 30000)
+var downloader = require('./lib/downloader')
+setInterval(downloader.getVehicleLocations, 30000) // every 30 seconds
+setInterval(downloader.getRoutes, 86400000) // daily: 1000 * 60 * 60 * 24
+downloader.getRoutes()
 
 //app.use(function(req, res, next) {
 //    // Set permissive CORS header - this allows this server to be used only as
